@@ -8,6 +8,7 @@ he wondered how he could apprise her of his presence without alarming her. While
 make up his mind, he took out his pipe and filled and lighted it, cupping his hands over the bowl and
 puffing till the tobacco came to glowing life. When he looked at her again, she had turned around and
 was regarding him curiously.
+
 He walked toward her slowly, keenly aware of the nearness of the sky, enjoying the feel of the wind
 against his face. He should go hiking more often, he told himself. He had been tramping through woods
 when he came to the hill, and now the woods lay behind and far below him, burning gently with the first
@@ -21,10 +22,12 @@ Her eyes were blue, he saw when he came up to her—as blue as the sky that fram
 silhouette. Her face was oval and young and soft and sweet. It evoked a déjà vu so poignant that he had
 to resist an impulse to reach out and touch her wind-kissed cheek; and even though his hand did not
 leave his side, he felt his fingertips tingle.
+
 Why, I’m forty-four, he thought wonderingly, and she’s hardly more than twenty. What in
 heaven’s name has come over me? “Are you enjoying the view?” he asked aloud.
 “Oh, yes,” she said and turned and swept her arm in an enthusiastic semicircle. “Isn’t it simply
 marvelous!”
+
 He followed her gaze. “Yes,” he said, “it is.” Below them the woods began again, then spread out
 over the lowlands in warm September colors, embracing a small hamlet several miles away, finally
 bowing out before the first outposts of the suburban frontier. In the far distance, haze softened the
@@ -32,6 +35,7 @@ serrated silhouette of Cove City, lending it the aspect of a sprawling medieval 
 reality than a dream. “Are you from the city too?” he asked.
 “In a way I am,” she said. She smiled at him. “I’m from the Cove City of two hundred and forty
 years from now.”
+
 The smile told him that she didn’t really expect him to believe her, but it implied that it would be nice
 if he would pretend. He smiled back. “That would be A.D. twenty-two hundred and one, wouldn’t it?”
 he said. “I imagine the place has grown enormously by then.”
@@ -39,6 +43,7 @@ he said. “I imagine the place has grown enormously by then.”
 to the fringe of the forest at their feet. “Two Thousand and Fortieth Street runs straight through that grove
 of sugar maples,” she went on, “and do you see that stand of locusts over there?”
 “Yes,” he said, “I see them.”
+
 “That’s where the new plaza is. Its supermarket is so big that it takes half a day to go through it, and
 you can buy almost anything in it from aspirins to aerocars. And next to the supermarket, where that
 grove of beeches stands, is a big dress shop just bursting with the latest creations of the leading 
@@ -48,9 +53,12 @@ material he was unfamiliar with, a material seemingly compounded of cotton candy
 There was no limit anymore to the syntheses that could be created by the miracle-fiber
 manufacturers—nor, apparently, to the tall tales that could be created by young girls. “I suppose you
 traveled here by time machine,” he said.
+
 “Yes. My father invented one.”
+
 He looked at her closely. He had never seen such a guileless countenance. “And do you come here
 often?”
+
 “Oh, yes. This is my favorite space-time coordinate. I stand here for hours sometimes and look and
 look and look. Day before yesterday I saw a rabbit, and yesterday a deer, and today, you.”
 “But how can there be a yesterday,” Mark asked, “if you always return to the same point in time?”
@@ -58,42 +66,59 @@ look and look. Day before yesterday I saw a rabbit, and yesterday a deer, and to
 of time the same as anything else, and you have to set it back every twenty-four hours if you want to
 maintain exactly the same coordinate. I never do because I much prefer a different day each time I come
 back.”
+
 “Doesn’t your father ever come with you?”
 Overhead, a v of geese was drifting lazily by, and she watched it for some time before she spoke.
 “My father is an invalid now,” she said finally. “He’d like very much to come if he only could. But I tell
 him all about what I see,” she added hurriedly, “and it’s almost the same as if he really came. Wouldn’t
 you say it was?”
+
 There was an eagerness about the way she was looking at him that touched his heart. “I’m sure it is,”
 he said; then: “It must be wonderful to own a time machine.”
+
 She nodded solemnly. “They’re a boon to people who like to stand on pleasant leas. In the
 twenty-third century there aren’t very many pleasant leas left.”
+
 He smiled. “There aren’t very many of them left in the twentieth. I guess you could say that this one is
 sort of a collector’s item. I’ll have to visit it more often.”
+
 “Do you live near here?” she asked.
+
 “I’m staying in a cabin about three miles back. I’m supposed to be on vacation, but it’s not much of
 one. My wife was called to jury duty and couldn’t come with me, and since I couldn’t postpone it, I’ve
 ended up being a sort of reluctant Thoreau. My name is Mark Randolph.”
+
 “I’m Julie,” she said. “Julie Danvers.”
+
 The name suited her. The same way the white dress suited her—the way the blue sky suited her, and
 the hill and the September wind. Probably she lived in the little hamlet in the woods, but it did not really
 matter. If she wanted to pretend she was from the future, it was all right with him. All that really mattered
 was the way he had felt when he had first seen her, and the tenderness that came over him every time he
 gazed upon her gentle face. “What kind of work do you do, Julie?” he asked. “Or are you still in
 school?”
+
 “I’m studying to be a secretary,” she said. She took a half step and made a pretty pirouette and
 clasped her hands before her. “I shall just love to be a secretary,” she went on. “It must be simply
 marvelous working in a big important office and taking down what important people say. Would you like
 me to be your secretary, Mr. Randolph?”
+
 “I’d like it very much,” he said. “My wife was my secretary once—before the war. That’s how we
 happened to meet.” Now, why had he said that? he wondered.
+
 “Was she a good secretary?”
+
 “The very best. I was sorry to lose her; but then when I lost her in one sense, I gained her in another,
 so I guess you could hardly call that losing her.”
+
 “No, I guess you couldn’t. Well, I must be getting back now, Mr. Randolph. Dad will be wanting to
 hear about all the things I saw, and I’ve got to fix his supper.”
+
 “Will you be here tomorrow?”
+
 “Probably. I’ve been coming here every day. Goodbye now, Mr. Randolph.”
+
 “Goodbye, Julie,” he said.
+
 He watched her run lightly down the hill and disappear into the grove of sugar maples where, two
 hundred and forty years hence, Two Thousand and Fortieth Street would be. He smiled. What a
 charming child, he thought. It must be thrilling to have such an irrepressible sense of wonder, such an
@@ -109,6 +134,7 @@ occupied ever since, except for the four vacation weeks he had recently been all
 two of which he spent with Anne and Jeff at a resort of their choosing and two of which he spent with
 Anne, after Jeff returned to college, in their cabin by the lake. This year, though, he was spending the
 second two alone. Well, perhaps not quite alone.
+
 His pipe had gone out some time ago, and he had not even noticed. He lighted it again, drawing
 deeply to thwart the wind, then he descended the hill and started back through the woods toward the
 cabin. The autumnal equinox had come and the days were appreciably shorter. This one was very nearly
@@ -118,6 +144,7 @@ deep one, and the trees came down to its edge. The cabin stood some distance bac
 stand of pines, and a winding path connected it with the pier. Behind it a gravel drive led to a dirt road
 that gave access to the highway. His station wagon stood by the back door, ready to whisk him back to
 civilization at a moment’s notice.
+
 He prepared and ate a simple supper in the kitchen, then went into the living room to read. The
 generator in the shed hummed on and off, but otherwise the evening was unsullied by the usual sounds the
 ears of modern man are heir to. Selecting an anthology of American poetry from the well-stocked
@@ -125,6 +152,7 @@ bookcase by the fireplace, he sat down and thumbed through it to “Afternoon on
 treasured poem three times, and each time he read it he saw her standing there in the sun, her hair
 dancing in the wind, her dress swirling like gentle snow around her long and lovely legs; and a lump came
 into his throat, and he could not swallow.
+
 He returned the book to the shelf and went out and stood on the rustic porch and filled and lighted
 his pipe. He forced himself to think of Anne, and presently her face came into focus—the firm but gentle
 chin, the warm and compassionate eyes with that odd hint of fear in them that he had never been able to
@@ -141,19 +169,26 @@ He tapped out his pipe and went back inside. In his bedroom he undressed and sli
 sheets and turned out the light. Sleep should have come readily, but it did not; and when it finally did
 come, it came in fragments interspersed with tantalizing dreams.
 “Day before yesterday I saw a rabbit,” she had said, “and yesterday a deer, and today, you.”
+
 * * *
+
 On the second afternoon she was wearing a blue dress, and there was a little blue ribbon to match
 tied in her dandelion-colored hair. After breasting the hill, he stood for some time, not moving, waiting till
 the tightness of his throat went away; then he walked over and stood beside her in the wind. But the soft
 curve of her throat and chin brought the tightness back, and when she turned and said, “Hello, I didn’t
 think you’d come,” it was a long while before he was able to answer.
+
 “But I did,” he finally said, “and so did you.”
+
 “Yes,” she said. “I’m glad.”
+
 A nearby outcropping of granite formed a bench of sorts, and they sat down on it and looked out
 over the land. He filled his pipe and lighted it and blew smoke into the wind. “My father smokes a pipe
 too,” she said, “and when he lights it, he cups his hands the same way you do, even when there isn’t any
 wind. You and he are alike in lots of ways.”
+
 “Tell me about your father,” he said. “Tell me about yourself too.”
+
 And she did, saying that she was twenty-one, that her father was a retired Government physicist, that
 they lived in a small apartment on Two Thousand and Fortieth Street and that she had been keeping
 house for him ever since her mother had died four years ago. Afterward he told her about himself and
@@ -161,19 +196,28 @@ Anne and Jeff—about how he intended to take Jeff into partnership with him som
 phobia about cameras and how she had refused to have her picture taken on their wedding day and had
 gone on refusing ever since, about the grand time the three of them had had on the camping trip they’d
 gone on last summer.
+
 When he had finished, she said, “What a wonderful family life you have. Nineteen-sixty-one must be
 a marvelous year in which to live!”
+
 “With a time machine at your disposal, you can move here any time you like.”
+
 “It’s not quite that easy. Even aside from the fact that I wouldn’t dream of deserting my father,
 there’s the time police to take into consideration. You see, time travel is limited to the members of
 Government-sponsored historical expeditions and is out of bounds to the general public.”
+
 “You seem to have managed all right.”
+
 “That’s because my father invented his own machine, and the time police don’t know about it.”
+
 “But you’re still breaking the law.”
+
 She nodded. “But only in their eyes, only in the light of their concept of time. My father has his own
 concept.”
+
 It was so pleasant hearing her talk that it did not matter really what she talked about, and he wanted
 her to ramble on, no matter how farfetched her subject. “Tell me about it,” he said.
+
 “First I’ll tell you about the official concept. Those who endorse it say that no one from the future
 should participate physically in anything that occurred in the past, because his very presence would
 constitute a paradox, and future events would have to be altered in order for the paradox to be
@@ -181,19 +225,23 @@ assimilated. Consequently the Department of Time Travel makes sure that only aut
 access to its time machines, and maintains a police force to apprehend the would-be generation-jumpers
 who yearn for a simpler way of life and who keep disguising themselves as historians so they can return
 permanently to a different era.
+
 “But according to my father’s concept, the book of time has already been written. From a
 macrocosmic viewpoint, my father says, everything that is going to happen has already happened.
 Therefore, if a person from the future participates in a past event, he becomes a part of that event—for
 the simple reason that he was a part of it in the first place—and a paradox cannot possibly arise.”
 Mark took a deep drag on his pipe. He needed it. “Your father sounds like quite a remarkable
 person,” he said.
+
 “Oh, he is!” Enthusiasm deepened the pinkness of her cheeks, brightened the blueness of her eyes.
 “You wouldn’t believe all the books he’s read, Mr. Randolph. Why, our apartment is bursting with them!
 Hegel and Kant and Hume; Einstein and Newton and Weizsäcker. I’ve—I’ve even read some of them
 myself.”
+
 “I gathered as much. As a matter of fact, so have I.”
 She gazed raptly up into his face. “How wonderful, Mr. Randolph,” she said. “I’ll bet we’ve got just
 scads of mutual interests!”
+
 The conversation that ensued proved conclusively that they did have—though the transcendental
 aesthetic, Berkeleianism and relativity were rather incongruous subjects for a man and a girl to be
 discussing on a September hilltop, he reflected presently, even when the man was forty-four and the girl
@@ -203,19 +251,25 @@ her eyes; their breakdown of Berkeley did more than point up the inherent weakne
 bishop’s theory—it also pointed up the pinkness of her cheeks; and their review of relativity did more
 than demonstrate that E invariably equals mc2—it also demonstrated that, far from being an impediment,
 knowledge is an asset to feminine charm.
+
 The mood of the moment lingered far longer than it had any right to, and it was still with him when he
 went to bed. This time he didn’t even try to think of Anne; he knew it would do no good. Instead he lay
 there in the darkness and played host to whatever random thoughts came along—and all of them
 concerned a September hilltop and a girl with dandelion-colored hair.
+
 Day before yesterday I saw a rabbit, and yesterday a deer, and today, you.
+
 Next morning he drove over to the hamlet and checked at the post office to see if he had any mail.
+
 There was none. He was not surprised. Jeff disliked writing letters as much as he did, and Anne, at the
 moment, was probably incommunicado. As for his practice, he had forbidden his secretary to bother him
 with any but the most urgent of matters.
+
 He debated whether to ask the wizened postmaster if there was a family named Danvers living in the
 area. He decided not to. To have done so would have been to undermine the elaborate make-believe
 structure which Julie had built, and even though he did not believe in the structure’s validity, he could not
 find it in his heart to send it toppling.
+
 That afternoon she was wearing a yellow dress the same shade as her hair, and again his throat
 tightened when he saw her, and again he could not speak. But when the first moment passed and words
 came, it was all right, and their thoughts flowed together like two effervescent brooks and coursed gaily
@@ -223,37 +277,47 @@ through the arroyo of the afternoon. This time when they parted, it was she who 
 tomorrow?”—though only because she stole the question from his lips—and the words sang in his ears
 all the way back through the woods to the cabin and lulled him to sleep after an evening spent with his
 pipe on the porch.
+
 Next afternoon when he climbed the hill it was empty. At first his disappointment numbed him, and
 then he thought,She’s late, that’s all. She’ll probably show up any minute. And he sat down on the
 granite bench to wait. But she did not come. The minutes passed—the hours. Shadows crept out of the
 woods and climbed partway up the hill. The air grew colder. He gave up, finally, and headed miserably
 back toward the cabin.
+
 The next afternoon she did not show up either. Nor the next. He could neither eat nor sleep. Fishing
 palled on him. He could no longer read. And all the while he hated himself—hated himself for behaving
 like a lovesick schoolboy, for reacting just like any other fool in his forties to a pretty face and a pair of
 pretty legs. Up until a few days ago he had never even so much as looked at another woman, and here in
 the space of less than a week he had not only looked at one but had fallen in love with her.
+
 Hope was dead in him when he climbed the hill on the fourth day—and then suddenly alive again
 when he saw her standing in the sun. She was wearing a black dress this time, and he should have
 guessed the reason for her absence; but he didn’t—not till he came up to her and saw the tears start from
 her eyes and the telltale trembling of her lip. “Julie, what’s the matter?”
+
 She clung to him, her shoulders shaking, and pressed her face against his coat. “My father died,” she
 said, and somehow he knew that these were her first tears, that she had sat tearless through the wake
 and funeral and had not broken down till now.
+
 He put his arms around her gently. He had never kissed her and he did not kiss her now, not really.
 His lips brushed her forehead and briefly touched her hair—that was all. “I’m sorry, Julie,” he said. “I
 know how much he meant to you.”
+
 “He knew he was dying all along,” she said. “He must have known it ever since the Strontium 90
 experiment he conducted at the laboratory. But he never told anyone—he never even told me. . . . I
 don’t want to live. Without him there’s nothing left to live for—nothing, nothing, nothing!”
 He held her tightly. “You’ll find something, Julie. Someone. You’re young yet. You’re still a child,
 really.”
+
 Her head jerked back, and she raised suddenly tearless eyes to his. “I’m not a child! Don’t you dare
 call me a child!”
+
 Startled, he released her and stepped back. He had never seen her angry before. “I didn’t mean—”
 he began.
+
 Her anger was as evanescent as it had been abrupt. “I know you didn’t mean to hurt my feelings, Mr.
 Randolph. But I’m not a child, honest I’m not. Promise me you’ll never call me one again.”
+
 “All right,” he said. “I promise.”
 “And now I must go,” she said. “I have a thousand things to do.”
 “Will—will you be here tomorrow?”
@@ -264,15 +328,19 @@ know how to replace them. Ours—mine may be good for one more trip, but I’m n
 She nodded. “Yes, I’ll try. And, Mr. Randolph?”
 “Yes, Julie?”
 “In case I don’t make it—and for the record—I love you.”
+
 She was gone then, running lightly down the hill, and a moment later she disappeared into the grove
 of sugar maples. His hands were trembling when he lighted his pipe, and the match burned his fingers.
+
 Afterward he could not remember returning to the cabin or fixing supper or going to bed, and yet he must
 have done all of those things, because he awoke in his own room, and when he went into the kitchen
 there were supper dishes standing on the drain-board.
+
 He washed the dishes and made coffee. He spent the morning fishing off the pier, keeping his mind
 blank. He would face reality later. Right now it was enough for him to know that she loved him, that in a
 few short hours he would see her again. Surely even a run-down time machine should have no trouble
 transporting her from the hamlet to the hill.
+
 He arrived there early and sat down on the granite bench and waited for her to come out of the
 woods and climb the slope. He could feel the hammering of his heart and he knew that his hands were
 trembling. Day before yesterday I saw a rabbit, and yesterday a deer, and today, you.
@@ -282,45 +350,56 @@ maples. Presently he found a path and he followed it into the forest proper and 
 hamlet. He stopped at the small post office and checked to see if he had any mail. After the wizened
 postmaster told him there was none, he lingered for a moment. “Is—is there a family by the name of
 Danvers living anywhere around here?” he blurted.
+
 The postmaster shook his head. “Never heard of them.”
 “Has there been a funeral in town recently?
 “Not for nigh onto a year.”
+
 After that, although he visited the hill every afternoon till his vacation ran out, he knew in his heart that
 she would not return, that she was lost to him as utterly as if she had never been. Evenings he haunted the
 hamlet, hoping desperately that the postmaster had been mistaken; but he saw no sign of Julie, and the
 description he gave of her to the passers-by evoked only negative responses.
+
 Early in October he returned to the city. He did his best to act toward Anne as though nothing had
 changed between them; but she seemed to know the minute she saw him that something had changed.
 And although she asked no questions, she grew quieter and quieter as the weeks went by, and the fear in
 her eyes that had puzzled him before became more and more pronounced.
+
 He began driving into the country Sunday afternoons and visiting the hilltop. The woods were golden
 now, and the sky was even bluer than it had been a month ago. For hours he sat on the granite bench,
 staring at the spot where she had disappeared. Day before yesterday I saw a rabbit, and yesterday a
 deer, and today, you.
+
 Then, on a rainy night in mid-November, he found the suitcase. It was Anne’s, and he found it quite
 by accident. She had gone into town to play bingo, and he had the house to himself; and after spending
 two hours watching four jaded TV programs, he remembered the jigsaw puzzles he had stored away the
 previous winter.
+
 Desperate for something—anything at all—to take his mind off Julie, he went up to the attic to get
 them. The suitcase fell from a shelf while he was rummaging through the various boxes piled beside it, and
 it sprang open when it struck the floor.
+
 He bent over to pick it up. It was the same suitcase she had brought with her to the little apartment
 they had rented after their marriage, and he remembered how she had always kept it locked and
 remembered her telling him laughingly that there were some things a wife had to keep a secret even from
 her husband. The lock had rusted over the years, and the fall had broken it.
+
 He started to close the lid, paused when he saw the protruding hem of a white dress. The material
 was vaguely familiar. He had seen material similar to it not very long ago—material that brought to mind
 cotton candy and sea foam and snow.
+
 He raised the lid and picked up the dress with trembling fingers. He held it by the shoulders and let it
 unfold itself, and it hung there in the room like gently falling snow. He looked at it for a long time, his
 throat tight. Then, tenderly, he folded it again and replaced it in the suitcase and closed the lid. He
 returned the suitcase to its niche under the eaves. Day before yesterday I saw a rabbit, and yesterday
 a deer, and today, you.
+
 Rain thrummed on the roof. The tightness of his throat was so acute now that he thought for a
 moment that he was going to cry. Slowly he descended the attic stairs. He went down the spiral stairway
 into the living room. The clock on the mantel said 10:14. In just a few minutes the bingo bus would let her
 off at the corner, and she would come walking down the street and up the walk to the front door. Anne
 would . . . Julie would. Julianne?
+
 Was that her full name? Probably. People invariably retained part of their original names when
 adopting aliases; and having completely altered her last name, she had probably thought it safe to take
 liberties with her first. She must have done other things, too, in addition to changing her name, to elude
@@ -329,11 +408,13 @@ been on that long-ago day when she had stepped timidly into his office to apply 
 strange generation, not knowing for sure whether her father’s concept of time was valid, not knowing for
 sure whether the man who would love her in his forties would feel the same way toward her in his
 twenties. She had come back all right, just as she had said she would.
+
 Twenty years, he thought wonderingly, and all the while she must have known that one day I’d
 climb a September hill and see her standing, young and lovely, in the sun, and fall in love with her
 all over again. She had to know because the moment was as much a part of her past as it was a
 part of my future. But why didn’t she tell me? Why doesn’t she tell me now?
 Suddenly he understood.
+
 He found it hard to breathe, and he went into the hall and donned his raincoat and stepped out into
 the rain. He walked down the walk in the rain, and the rain pelted his face and ran in drops down his
 cheeks, and some of the drops were raindrops, and some of them were tears. How could anyone as
@@ -341,12 +422,14 @@ agelessly beautiful as Anne—as Julie—was be afraid of growing old? Didn’t 
 she couldn’t grow old—that to him she hadn’t aged a day since the moment he had looked up from his
 desk and seen her standing there in the tiny office and simultaneously fallen in love with her? Couldn’t she
 understand that that was why the girl on the hill had seemed a stranger to him?
+
 He had reached the street and was walking down it toward the corner. He was almost there when
 the bingo bus pulled up and stopped, and the girl in the white trench coat got out. The tightness of his
 throat grew knife-sharp, and he could not breathe at all. The dandelion-hued hair was darker now, and
 the girlish charm was gone; but the gentle loveliness still resided in her gentle face, and the long and
 slender legs had a grace and symmetry in the pale glow of the November streetlight that they had never
 known in the golden radiance of the September sun.
+
 She came forward to meet him, and he saw the familiar fear in her eyes—a fear poignant now
 beyond enduring because he understood its cause. She blurred before his eyes, and he walked toward
 her blindly. When he came up to her, his eyes cleared, and he reached out across the years and touched
