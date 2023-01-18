@@ -1,0 +1,1550 @@
+`The field was dotted with the yellow heads of dandelions as far as the eye could stretch.@
+br
+`They bristled back and forth gently in the warm breeze, almost begging for someone to pick them.@
+br
+`Technically, dandelions are weeds. Flowers meant to be ripped out of the ground and tossed in a trash bucket.@ There's nothing pretty about them, and they just exist to be weeded and thrown out.\
+`Either way, here in this field, under this slice of clear Summer sky...@ they looked beautiful.@
+br
+`Or maybe it wasn't the dandelions at all.@
+br
+`In the middle of the golden-colored field was a beautiful girl in a white dress, dancing in circles.@
+br
+`The flowers danced around her in the breeze, and the straw hat covering her head fell off.\
+
+
+`Her hair was fair, a shade or two darker than the dandelions around her.@ She let it fall over her shoulders and brush against the middle of her back, and sucked in a deep breath of the sweet Summer air.@ Then she picked up her hat, and held it.@
+br
+`She didn't put it back on her head right away. Instead the dandelion girl grinned and held her hand over her eyes, looking at the bright blue sky overhead, and simply took it all in.\
+
+
+`It was something poetic.@ The kind of thing you'd expect someone to describe in a sonnet.@
+br
+`Or maybe it was something you'd expect to find in a leisurely oil painting, something warm and comfortable to hang on your wall and gaze at when the temperature gets too cold outdoors.@
+br
+`Mark watched the girl and felt a strange and somewhat painful deja vu, as though it was a scene he'd witnessed a dozen times before.\
+
+
+`Of course, that was absurd. It was their first meeting, and never before in his life had he met such a beautiful girl.@
+br
+`But he watched her, and felt a feeling of... connection.@
+br
+`Surely, somehow and somewhere, he had been in this field at this time.@
+br
+`Was something like that possible?\
+
+bg cg_julieinthefield,10
+`"........."@
+wait 2200
+bg cg_julieinthefieldb,10
+br
+`It was some time before Mark realized.@
+br
+`The dandelion girl with the straw hat had stopped dancing, and now she was just standing there, staring at Mark with a face like a curious animal.@
+br
+`Mark thought:@
+br
+`One time, at a place called Saint Vincent Malleys, he'd seen something like this.\
+
+
+`It felt like she'd stepped out of the past and stood before him, but... that was wrong.@
+br
+`But she'd stepped out of the future... hadn't she...?\
+
+
+bg inbetween_1,18,3000,"sys/m1.jpg"
+wait 1000
+bg inbetween_1b,18,700,"sys/right.jpg"
+
+wait 4000
+bg black,10 bgmstop
+wait 2000
+
+bg black,10 bgm bgm_on_the_passing_of_time
+wait 1000
+bg bg_office,10
+wait 1000
+
+`I'd been planning out my vacation for months.@
+br
+`God knows I spend too much time in my office shuffling through papers and handling cases, so I deserve to have some time for just myself and my wife now and then.@ Every year I schedule four weeks of time away from my desk--two with Anne and our friend Jeff--and two with just Anne and me.@
+br
+`I always schedule them so that they'll arrive before I can burn myself out.@ They're nothing expensive or elaborate, just a comfortable get-away.@
+br
+`I'd planned out a schedule for Anne and I, what we planned to do, how, and when.@
+br
+`My time off was set, as was Anne's.@ Oh, And Jeff's.\
+
+`Then it was only a matter of time until the day crept up on us, and we'd pack up the car and set off.@
+br
+`I really looked forward to it, and I'd arranged a lot of small details ahead of time.@
+br
+`"You put way too much thought into this kind of thing, you know that?"@
+br
+`"Never hurts to be prepared and have a plan, right?@ My captain always said so, anyway."@
+br
+`My wife had giggled and went along with it, and we'd come to a mutual understanding.\
+
+`We had a lot of things we wanted to do.@ Simple things. Fishing and roasting marshmallows, just enjoying our time with one another.@ ... Some things we'd have to wait until Jeff went back to college to do.@
+br
+`Anne and I were busy, hard-working people.@ Some would probably say we were addicted to our work.@
+br
+`It wasn't that we needed the money per se, we just both had a drive to stay busy.@
+br
+`But you know, eventually the stress can add up, so things like this are nice.\
+
+`When was the last time Anne and I went somewhere on vacation?@
+br
+`I can't seem to remember.@ Didn't we drive to Florida last February and just lay out on the beach, watching the dolphins swimming around in the ocean?@
+br
+`Or maybe that was the year before...\
+
+`Well, anyway.@
+br
+`It would be nice to have some time to just huddle close to one another in front of the fireplace, just enjoying each other's company.@
+br
+`Jeez, the idea of that's kind of cheesy and embarrassing.@
+br
+`But either way, I was looking forward to it.\
+
+bg black,10
+
+`... But.@
+br
+`Fate intervened, and Anne was called away for Jury duty.@
+br
+`No matter how hard she tried to wriggle her way out of it, she was stuck.@ And so our plans for a peaceful, relaxing vacation were derailed.\
+
+bg "bg/bg04.jpg",10
+
+`"Well, we can always go on vacation another time."@
+br
+`"What are you talking about?@ Aren't the preparations already made?@ Didn't you already schedule the time off?@ Call Jeff at the cabin?@ You can't just call it off."@
+br
+`"Well, yeah, but..."@
+br
+`But I obviously couldn't go without her.@ It just wouldn't feel right.\
+
+`"It's not that far away, and the case seems pretty open-and-shut.@ ... Go on, head up there and keep Jeff company and I'll hurry after you as soon as the case is done with."@
+br
+`"But--"@
+br
+`"You deserve it, Mark.@ You work so hard and never complain, so just this once, shut up and enjoy yourself."@
+br
+`"........."\
+
+bg black,18,2000,"sys/right.jpg"
+wait 500
+`Since the beginning, I've had a hard time arguing with my wife.@
+br
+`Is it because she's so persuasive, or am I just a softy?@ Whatever the case may be, she ends up winning most of the arguments, or at best, we reach a stalemate.@ A compromise is a nicer way of putting it.@
+br
+`So in the end I folded, packed up my things and went off on vacation without my wife.@
+br
+`She said that she'd catch a ride to our camp site as soon as it was done.@
+br
+`After all that, I finally arrived at our cabin in the woods and settled in.\
+
+bg "bg/bg04_05_new.png",10
+
+`Jeff and I had a good enough time by ourselves, but time continued to slip by, and before I knew it he'd left for college and the trial back home was still going on.@
+br
+`Anne apologized, and I knew it was heartfelt, but even so, it bothered me a little.@
+br
+`Time passed at the camp site, where I'd had a good time with Jeff days ago, very slowly after that...\
+
+wait 2000
+
+`Jeff left a bottle of champagne on the coffee table before he left, too,@ which just reminded me someone was missing from all this.@
+br
+`"........."@
+br
+`What to do, now?@
+br
+`I couldn't play cards with Anne and I felt like going fishing with just myself and my rod would be too depressing.\
+
+bg black,10 bgmstop
+`I tried laying down and just taking a nap, but even that didn't feel right.@
+br
+`After a while I finally decided--I'd take a hike.@ Maybe trudging around in the middle of good old mother nature would distract me from the loneliness I felt, then.\
+
+
+wait 4000
+
+bgm bgm_credits_fast
+bg bg_sky,18,3000,"sys/m1.jpg"
+wait 2000
+
+`"Nnn.../
+wait 200
+` ku.../
+` ... ... this is...@...@ higher than I remembered..."@
+br
+`The climb to the top was... further than I remembered.@ I couldn't tell if I'd taken a different path, or whether I was just getting old.@
+br
+`I hoped it was the former.\
+
+`"Nnnngh...@ uu... ...  a-ah... !"@
+dwave 1, sfx_fall quakey 6, 800 
+wait 600
+br
+`After a few more shaky steps I managed to reach the edge, and finally climbed up onto solid ground.@
+br
+`It was a field of dandelions stretching from here to the horizon, rippling in the Summer wind.@
+br
+`I looked it up and down, from near to far, and after a moment or two I realized I wasn't alone.\
+
+bg bg_dandelionfield,10
+
+`There was a blonde girl in a straw hat doing some sort of silly dance, simply enjoying the warmth of the sun.@
+br
+`Eventually she stumbled, and her hat fell off.@
+br
+`She picked it up, then looked at the sky... and then, pausing first, she looked at me and let it fall again.@
+br
+`After a time, the dandelion girl waded over to me in the grass and stopped several yards away.\
+
+`Was she at a loss for words?@
+br
+`I sure as hell was.\
+
+
+`"Hello, Miss.@ Hope I'm not intruding."@
+br
+wait 1000
+ld c,julb4,10
+`"Intruding... ?"@
+br
+`"Getting in the way. Of your dancing I mean.@ ... Whew, it's a big field, though.@ We can share it, don't you think?"@
+br
+ld c,jula2,10
+`"Oh... Sure, sure."@
+br
+`She grinned and nodded her head without an argument of her own.\
+
+cl a,10
+`"Mmmm.@ My wife and I come up here from time to time when we go camping in the area.@ She really likes the view."@
+br
+`Without meaning to, I thought my voice had tapered off at the end of my sentence and made me sound melancholy.@
+br
+`If it had, the dandelion girl hadn't noticed it.\
+
+ld c,julb4,10
+
+`"Mmmhmm, mhmhmm.@ Isn't it a nice view?@ I come here sometimes and I can watch for hours, and hours, and hours."@
+br
+`"I guess, but I'm not sure I could keep at it for hours on end.@ Don't know where anything is down there.@ Maybe my eyes aren't so great, these days."@
+br
+`I thought maybe she was exaggerating, but I wasn't kidding about my eyesight.@
+br
+`Anne had eyes like a hawk, and if we were together she'd be giggling and pointing down at Cove City,@ which this view loomed over in the distance, talking about something that was going on down there.\
+
+`But everyone looked like ants from where I was sitting, so a part of me thought she was just fooling around.\
+br
+`"Have you ever been down to Cove City?@ I've only been down there once or twice, myself."@
+
+ld cl,julb3,10
+br
+`"Oh, of course~!"@
+br
+`All at once, the dandelion girl sprung up, suddenly looking really excited.\
+cl a,1
+stop
+bgm bgm_cold_funk
+bg cg_juliepointing,1 dwave 1,sfx_sproing quakex 5,1000
+
+`"Down there, you see that?@ It's a shop where you can get all the latest dresses.@ They sell jackets and some things for men, too, but most of their stuff is for young ladies, like me.@/
+dwave 1,"sfx/sproing.wav" quakex 5,1000
+` Oh, oh, and you see that?@ That's a general store, where you can get anything from aspirin to aerocars.@ The owner's a really nice man who gives me cookies sometimes."@
+br
+`"Hmmm.@ It all sounds nice, I suppose.@ ... But wait, 'aerocars'? What are those?"@
+br
+`"A-ah, whoops. I guess they don't have those in this time period, huh?"@
+br
+`"........."\
+
+`"I'll tell you a secret, okay?@ Just promise to keep it to yourself."@
+br
+`"I've got no one else to tell.@ Shoot."@
+bg black,10
+wait 1000
+br
+`The dandelion girl lowered her voice and put her face closer to mine.@
+br
+`"... I'm from 240 years from now, in the future, you know?"@
+br
+`With an entirely serious face... she said that.\
+
+bg bg_dandelionfield,10
+`"Huh. Neat."@
+br
+ld c,jula8,10
+`"Th-that's all you've got to say!?@/
+ld c,julb3,10
+` Really?"@
+br
+`"Sure.@ Were you expecting something else?"@
+br
+ld c julb4,10
+wait 300
+cl a,10
+`The dandelion girl clasped her hands together and looked like she was at a loss for words again, ecstatic.\
+
+ld c,julb9,10
+`"S-so you believe me?"@
+br
+`"Of course."@
+br
+`... No chance.\
+
+`When I was a kid my brother and I liked to play pretend,@ acting like we were from space, or pirates, or even from the future or the past, trying to muck up the present.@
+br
+`Even though some of those make-believe sessions ended in scuffs or bruises, I remembered how much fun they'd been.@
+br
+`Even though she seemed a little old for make-believe, the dandelion girl seemed wrapped up in her small imaginary world, and it was kind of... endearing.@
+br
+`So I played along, for one reason or another.\
+
+`"Hmmm.@ Mind if I ask you a question?"@
+ld c,jula2,10
+br
+`"Of course.@/
+ld c,jula8,10
+` What is it, Mr...?"@
+br
+`"Yes, that's the thing.@ What's your name?@ You can call me Mark if you want."@
+br
+ld c,jula2,10
+`"Mark, hmmm?@ I'm Julie Danvers.@ You can call me Julie.@/
+ld c,julb4,10
+` It's a pretty name, just like the dandelions here, don't you think?"@
+br
+`"My wife would say someone needs to pluck them all and throw them in the trash, but sure.@ I suppose so."\
+cl a,10
+
+ld r,jula10,10
+wait 300
+ld r,jula6,10
+`Julie shuddered, as though the thought of it horrified her.@
+br
+`Maybe it did.@
+br
+`"So, you're from 240 years in the future, right?@ Why did you come back to the sixties?@ Why not go further ahead in time, maybe to 500 years from now?"@
+br
+ld r,jula7,10
+`"Why?@/
+ld r,jula8,10
+` Why wouldn't I?@ Everything's pretty dingy and industrialized 240 years from now, you know."@
+br
+`"I suppose that makes sense."\
+
+`"I come here all the time, like I said!@/
+ld r,julb2,10
+` Sometimes I'll just roll around in the grass, or watch the clouds go by, or just lay around and try to get a bit of a tan.@ Although, I usually burn.@/
+ld r,julb4,10
+` Oh, oh! You know, the day before yesterday I saw a rabbit, and yesterday a deer, and today, you."@
+br
+`"And here I was taking it all for granted.@ I'll have to stop by more often."@
+br
+`"Don't you live around here or something, Mister?"@
+br
+`"Sort of.@ I go on vacation here from time to time.@ I've got a cabin a ways back.@ Normally my wife comes along with me, but... well..."\
+
+ld r,julb3,10
+`"She left you behind all to yourself?@/
+ld r,julb1,10
+` That sounds pretty mean."@
+br
+`"No, no, she had jury duty all of a sudden, that's all.@ She said it was an open-and-shut case, though, so she'd hurry after me."@
+br
+ld r,julb8,10
+`"Muu, sounds suspicious if you ask me."@
+br
+`... Maybe it did, just a bit.\
+
+`"They don't have jury duty or anything like that in the future, Julie?"@
+br
+`Julie shrugged her shoulders.@
+ld r,julb3,10
+br
+`"Beats me.@/
+ld r,julb4,10
+` I don't know about anything like that."@
+br
+`So, you find a way to weasle out of it...@
+br
+`Heh.\
+
+ld r,jula8,10
+`"W-why are you laughing all of a sudden...?"@
+br
+`"Oh, it's nothing. Probably.@ It's just, I don't know.@ I haven't laughed in a couple days now.@ Every day my wife isn't around feels a little bit gloomier."@
+br
+ld r,julb4,10
+`"Hehe.@ Well, I'm glad I could make you laugh.@ You're pretty funny, you know--you make me laugh too.@ Just a little though."@
+br
+`"Better than nothing, I guess."@
+br
+ld r,julb7,10
+`"Hehe."\
+cl a,10
+`I wondered who Julie Danvers was, really.@
+br
+`A girl from the future?@ I was dubious about that, but I did think there was something genuine about her.@
+br
+`At the very least, she was a little overimaginative.@ At the most... well...\
+
+`She was from the future--or so she claimed.@
+br
+`But she looked like someone from my time--even the dress she was wearing looked dated.@
+br
+`Huh. Could something crazy like time travel  be possible?@ Obviously, I was pretty skeptical of the whole thing.\
+
+ld c,julb9,10
+`"Do you like my dress, Mr. Mark?"@
+br
+`"Just Mark is fine.@ Sure. Why do you ask?"@
+br
+ld c,julb6,10
+`"Well, you've been staring at it for a while.@ Unless you have a thing for collar bones...?"@
+br
+`"You're a little young for me."\
+
+ld c,julb10,10
+wait 250
+ld c,julb6,10
+
+
+`Julie puffed out her cheeks and looked indignant.@ Even though she seemed a little annoyed, it still managed to be cute, somehow.@
+br
+ld c,julb1,10
+`"It's my favorite dress, I got it a month or two ago.@/
+ld c,julb9,10
+` Want to feel how soft it is~?"@
+br
+`"Thanks, but I--"@
+br
+cl a,1
+`"Hmmmmmmmmmmmmm?"@
+br
+`"......... Sure."\
+
+`Julie scooted over to me, a little closer than I was comfortable with,@ and did a ridiculous-looking pose for me.@
+br
+`"Hmmmm. So this is fabric from the future, huh...?@ Strange stuff."@
+br
+`It was something I couldn't quite put my finger on.@ It looked like someone had meshed together sea foam, cotton candy and snow together and flattened them into a fabric.@
+br
+`Even if I didn't believe it was from 240 years in the future, it was certainly interesting.@
+br
+`"It's nice.@ And you're right, it is pretty soft."\
+
+`"Hehe. That makes me happy."@
+br
+`"Well, if you say so."\
+
+`Without much warning, Julie Danvers dropped into a seated position, and stared at the clouds overhead.@
+br
+`The sky was blue, but the sun wasn't glaring too brightly so you didn't quite have to squint looking up.@
+br
+`"Papa would really like to see this.@ The clouds don't look like this in the future.@ They're dark and dirty-looking, and... well..."@
+br
+`"Too bad for him that he's not with you.@ Why don't you bring him along with you, some time?"@
+br
+`"........."\
+
+cl a,10
+bg cg_julieexplains,10
+`"If I could, I would.@ But you know... Papa's an invalid."@
+br
+`"Oh?@ That right?"@
+br
+`"Mmmm.@ If he gave up his research and his time machine, he'd probably just be left alone.@/
+` But he keeps tampering with things that shouldn't be tampered with--or so they say--and people always seem to be after him."@
+br
+`"Really?@ You seem to be doing pretty well."@
+br
+`"Hehe.@ They can't get ahold of me even if they try. I'm too sneaky."\
+
+bg bg_dandelionfield,10
+`"Mmmm, makes me wonder if that's something to be proud of..."@
+br
+ld c,jula9,10
+`Julie and I both laughed together.@
+br
+`I wasn't entirely sure what to make of it--the 'my father is an invalid' part--so I just left it alone.@
+br
+`Maybe it was something better off unknown.\
+
+ld c,julb4,10
+`"Hmhmhmhmhm.@ Well, it was really fun Mr. Mark, but I should be going."@
+br
+`"Oh yeah?@ Going back to the future?"@
+br
+ld c,julb2,10
+`"Hehe. For now.@ Papa needs his supper, and I have to clean my bedroom.@/
+ld c,julb7,10
+`It's kind of messy."@
+br
+`"Sounds important.@ Will I see you again?"@
+br
+cl a,10
+ld r,julb1,10
+`"Again...?"\
+`"Tomorrow, or the day after that, or something."@
+br
+ld r,julb2,10
+`"Oh!@/
+ld r,julb4,10
+` Hehe, of course.@ Lately I've been coming here every day.@ I like a little change of pace, and the time machine's affected by the passing of time just like anything else, you know?@/
+ld r,julb9,10
+` So I always come here twenty-four hours after the last trip, give or take."@
+br
+`"I'll stop by tomorrow, then."@
+br
+ld r,jula3,10
+`"It's a promise!"@
+ld r,jula2,10
+br
+`"Right, right, right."\
+
+cl a,10
+
+`The dandelion girl, Julie Danvers, giggled and turned her back to me.@
+bgmstop
+wait 300
+br
+`It was at that moment that I felt it--an inexplicable deja vu.@
+br
+`But before I could look into it, try to sort it out or rationalize it,@ Julie Danvers was already walking off into the distance, eventually growing as small as a speck of sand from where I was standing, and she disappeared...\
+
+wait 1000
+
+bg inbetween_2,18,3000,"sys/m1.jpg"
+wait 1000
+bg inbetween_2b,18,700,"sys/right.jpg"
+
+wait 4000
+bg black,10 bgmstop
+wait 2000
+
+
+bg bg_cabinb,18,2000,"sys/right.jpg"
+bgm bgm_calm 
+wait 2000
+
+`After Julie had gone and I'd returned to my little cabin at the edge of the woods, I realized how quiet everything had become.@
+br
+`At first I thought it was just the silence of the night far away from the city,@ then that maybe it was because I'd stopped talking to myself.@
+br
+`And then, after I really thought about it, I realized it was because I'd gotten so used to the soundboard that was Julie Danvers.@
+br
+`She was so lively and talkative and it made the melancholy quiet of my 'vacation' fade away.@
+br
+`And then, she was gone.\
+
+`"........."@
+br
+`I sat in a cozy armchair by the phone, smoking and looking up at the knotholes in the ceiling overhead.@ Occasionally I'd see an odd shape that looked something like a face, or a tree, or something like that.@
+br
+`It was more or less like looking at the clouds passing by and trying to make sense of their shapes.@
+br
+`Now and then I'd look at the phone, which Anne promised to call me on at 7 PM, but not once did it ring.\
+
+`I picked up the receiver and tested it, and it was fine.@ Making and receiving calls worked.@
+br
+`Anne just wasn't calling.@
+br
+`"Must be busy, I wonder who they're trying... ?@ I hope they don't break out the death penalty."@
+br
+`I'd been to jury duty once, and even though you're supposed to keep the case to yourself, I'd told Anne some of the details.\
+
+`I won't bother with the grisly details, but it was a pretty scummy guy.@
+br
+`The death penalty was on the table, and honestly I thought the son of a bitch deserved the electric chair.@
+br
+`Anne didn't like the sound of that at all.@
+br
+`I thought about Anne sitting at a table, shuffling around in her seat, trying to make a point without sounding pushy.\
+
+`I really wished Anne would call.@
+br
+`But no matter how hard I stared at the rotary phone on that table, it didn't ring.@
+br
+`It was a little depressing.@ Vacationing on your own without a word from your spouse feels like some kind of punishment.@
+br
+`I poured a glass of bourbon and sat back down in my chair, and lit another cigarette while I was at it.\
+
+`... On the other hand, it was nice that I could smoke without Anne's objection.@
+br
+`She'd lost her father to lung cancer or something like that, and so she gave me the evil eye every time she saw me with a cigarette in my mouth or a pack in my shirt pocket.@
+br
+`I guess I'd feel the same way.@
+br
+`So, for that reason, I usually didn't smoke.@ At least not around my wife.\
+
+bg black,10 
+bgmstop
+
+`After a while I decided that Anne probably wouldn't be calling tonight, so I stood up and locked the place up for the night.@
+br
+`As was the usual ritual, I left the porch light on, and locked the front door.@
+br
+`It wasn't to protect the place from people so much as wild animals.@
+br
+`I headed to bed with my bourbon, and sat down.\
+
+`I thought of Julie Danvers, the inquisitive, energetic girl who seemed to be running around like some kind of wind-up toy.@
+br
+`I'd been alone since the start of this 'vacation,' and she was the first person I'd seen since Jeff left and the owner of the cabin came by and checked up on how things were going.@
+br
+`I missed her.\
+
+`"Come on, come on.@ She's got to be less than half your age, and you're married."@
+br
+`But honestly, I'd been by myself for so long, could you blame me?@
+br
+`I thought anyone would be happy to be accompanied by a cute girl like Julie.\
+
+`"I wonder what Julie or Anne are up to?"@
+br
+`I really couldn't tell.@ I hadn't heard a word from Anne, and I wasn't sure whether a word out of Julie's mouth was true or not.@
+br
+`I thought of Julie Danvers' story, her explanation of her time travelling adventures.@
+br
+`Of course, it was nothing but fiction.@ But even so, it was an interesting idea.\
+
+`......... Why had I played along with it?@
+br
+`I could've just shrugged it off and said, 'Right, okay. So anyway...' but I hadn't.@
+br
+`So why?@
+br
+`I think it was probably because the whole thing was... fun.@
+br
+`I was a serious guy with a serious life living by strict rules.@
+br
+`So playing a pretend game once in a while was fun.\
+
+`But in any case, if Julie wasn't from the Cove City of two-hundred years from the future, then where?@
+br
+`It might've been a cottage somewhere deeper in the woods, or maybe she was just from the Cove City of today.@
+br
+`If she was still playing the role of a time traveler the next time I saw her, I wondered how I could figure that out without breaking her little act.@
+br
+`It might be possible, or maybe not.\
+
+`"... Well, I'll think about it when I see her next."@
+br
+`If I saw her next.@
+br
+`There was the possibility that I might never see Julie Danvers again, that she was just a passerby like me, but with an overactive imagination.@
+br
+`But for one reason or another, I hoped I'd see her again.\
+
+`I hoped I'd meet Julie Danvers again, and that night I nodded off, drifting in between thoughts of her and my wife, Anne...\
+
+wait 3000
+
+bg bg_sky,18,3000,"sys/m1.jpg" bgm bgm_maid_with_the_flaxen_hair
+wait 1000
+
+`I climbed the rocky slope again the next day, hoping to catch another glimpse of the dandelion girl.@ I knew there was a chance that our meeting had been a fluke from the beginning, and so I wasn't sure whether or not we'd meet again in the field of brilliant yellow flowers.@
+br
+`But still, I hoped.\
+
+bg cg_juliepondersb,10
+
+`Surely enough, when I got there I found that same girl lying on her back in the middle of the dandelion field, watching the clouds go by one by one.@
+br
+`Her hair covered the right half of her face and she didn't seem to notice me.\
+
+`Deja vu.@
+br
+`Eventually she did see me out of the corner of her eye, and sat up.@
+br
+`It wasn't until then that I noticed she was wearing a blue dress this time, not quite as mysterious as the last.\
+
+bg bg_dandelionfield,10
+wait 300
+ld c jule5,10
+
+`"Oh, Mr. Mark~!@/ 
+ld c jule2,10
+` You came back."@
+br
+`"Well, yeah.@ Wasn't I the one asking you if you'd come by again today?" @
+br
+ld c jule8,10
+`"I think so.@ Hmmm..."@
+br
+`"Don't worry about it.@ What are you doing out here, today?"@
+br
+ld c jule7,10
+`"Oh, I'm just watching the clouds.@ I was reading a book from this time period, and they said something about watching them and looking out for shapes.@/
+ld c jule8,10
+` I'm still not sure what they mean, though."\
+
+`"The human eye sees what it wants to see.@ Here, let me take a look."@
+br
+ld c jule1,10
+`"........."@
+br
+`"Look at that cloud.@ It looks like... a bird, I'd say.@ See? That part is the outline of a wing, and that part--"@
+br
+ld c jule4,10
+`"It's a beak!"\
+
+`"Good job.@ Understand now?"@
+br
+ld c jule2,10
+`"Yep! Wow, there really all are sorts of shapes if you look hard."@
+br
+`"Hmhmhm. I figured an imaginative girl like you would pick apart something like this pretty quickly."@
+br
+ld c jule6,10
+`"... Did you say something, Mr. Mark?"@
+br
+`"Nothing at all. And it's just Mark, thanks."@
+br
+ld c jule7,10
+`"Hehe."\
+
+cl a,10
+bg bg_sky,10
+
+`"Have you read any other books?@ From the future, let's say."@
+br
+`"Hmmmm.@ Well, I read a lot of books on philosophy stuff.@ Rouseau, Quackel...  It's kind of tough, though.@ Sometimes when I read for too long I get a headache."@
+br
+`"That happens when you read too much of anything, even when it's something you like."@
+br
+`"Really?"\
+
+`"You learn something new every day, I suppose."@
+br
+`"Hmmmmmm~."@
+br
+`"Anyway, I've read some of that stuff myself.@ Maybe I read too much..."@
+br
+`"There's no such thing as that, Mr. Mark!"@
+br
+`"It's Mark, Julie."@
+br
+`"Booooooo."\
+
+`The young Julie Danvers pouted.@
+br
+`"Well anyway, now I know your taste in reading.@ What else? I feel like I've already told you everything about myself by now."@
+br
+`At least, everything important.\
+
+`"Hmmm, it's not all that interesting..."@
+br
+`"Try me."@
+br
+`"W-well, if you insist."\
+
+bg bg_dandelionfield,10
+ld c,jule1,10
+
+`I learned that Julie was seventeen, and her father was a retired government physicist.@ Her mother had died several years back, and since then she'd been taking care of her father in their little apartment on two-thousand and fourtieth street.@
+br
+`Aside from the setting it really was a pretty unremarkable story.@
+br
+`I filled in my own blanks where I hadn't mentioned things to Julie.@ I talked about Anne, being in the war, starting my law firm, and the chaos at my wedding so many years ago.\
+
+
+ld c jule8,10
+`"She's scared of cameras?@/
+ld c jule9,10
+` Maybe she doesn't photograph well."@
+br
+`"I remember how pale her face got when I talked about taking a wedding photo.@ We all kept insisting, but she was pretty assertive with the whole thing, so in the end we dropped it.@ I guess the memory of it is enough, and there are all those little things to remind us of the wedding day, but..."@
+br
+ld c jule1,10
+`"So you just went without a photo altogether?"@
+br
+`"We had ourselves get drawn by a portrait artist.@ It doesn't look exactly like us, but... well, maybe I'll bring it next time and show you."@
+br
+ld c jule4,10
+`"Hehe, that would be great!"\
+
+`Next time?@ Was I already getting ahead of myself, assuming I'd see her day after day?@
+br
+`My vacation wouldn't last forever, so I couldn't get too stuck in that habit. Right?@
+br
+`Anyway, by the time I was done talking about Anne, my own history and whatnot, Julie's eyes were sparkling.@
+br
+`... I still didn't think it was THAT fascinating.\
+
+ld c jule4,10
+`"Oh, Mr. Mark.@ Everything in this time period is so wonderful!@/
+ld c jule9,10
+` I wish I'd grown up in the sixties!"@
+br
+`"When you're older you'll say the same thing about the decades before.@ But why don't you just move to the sixties if you like it so much?@ Assuming you could hop back and forth between 1966 and... I can't remember what year you said it was."@
+br
+ld c jule2,10
+`"Well if I had to do that, I'd be abandoning Papa.@/
+ld c jule3,10
+` Which I never ever would!@ And I'd still have to worry about the Time Police finding me.@ They're pretty shrewd and clever. They don't give up, no matter how long it takes."@
+br
+`"They sound like tough nuts to crack."\
+
+ld c jule6,10
+
+`"Hmph.@ Well, they've got that stupid theory they've got to defend, you know?"@
+br
+`"I don't, actually. What stupid theory?"@
+br
+ld c jule8,10
+`"Boooo.@ They think if you talk with anyone, no matter how small and unimportant, it will change the future. And maybe not for the better."@
+br
+`"Sounds like a pretty plausible explanation to me. What's your counter argument?"@
+br
+ld c jule7,10
+`"Papa's 'Book of Time' theory."\
+
+`"How's that go?"@
+br
+bg black,10
+wait 300
+bg cg_juliepondersa,10
+`Julie took a minute to gather her thoughts, and then gave her own explanation.@
+br
+`"It's easiest to think of time like a book.@ Even though there's a beginning, a middle and an end..."@
+br
+`"The book's already written, and sitting in the palm of your hand, so you can't change the result.@ Something like that? But why?"\
+
+`"Everything that leads to the final page is already accounted for. @It's already 'written.'@ If you were to go back in time and tinker around... nothing would happen.@ Because--"@
+br
+`"Because you've already went and done it.@ That's what led to the end all along.@ ... Huh. Neat."@
+br
+`"Kehehe. I'm glad you're a smart man, Mr. Mark."@
+br
+`"It's Mark."@
+br
+`"........."\
+
+`"Kind of depressing though.@ Don't you think?@ If I were to go and stop something really terrible from happening, it wouldn't matter.@ ... Hmmm, maybe that would've caused it in the first place.@ Well, anyway. A stable time loop... that's certainly... different."@
+br
+`"Papa always says 'Whatever happened, happened.'"@
+br
+`"I guess that's the easiest way to explain it.@ Hmmmm, but it would be nice, to be able to go back and change things, even if just a little."@
+br
+`"Is there something you'd want to change, Mark?"\
+
+bg black,10
+
+`"........."@
+br
+`There was.@
+br
+`Years ago, I'd been drafted to fight in the War.@ The things I'd seen and experienced, the smell of burning flesh and those horrible smells surrounding me, the taste of blood in my mouth...@ They were etched into me, had gone from things I'd felt to things that were part of me.@
+br
+`Could I change the flow of time, so that I wouldn't have been drafted to begin with?@
+br
+`Or else... could I have stopped things from going so horribly, and staining my hands with so much blood?\
+
+`Maybe, if I'd been smarter...@ I wouldn't be forced to remember those things I'd done, which I'd actually been praised for.@
+br
+`There was a soldier I'd killed.@ He couldn't have been older than eighteen or nineteen, he was just a kid.@
+br
+`But he was an enemy, and the moment he removed his helmet to fix the strap...@ I'd put a bullet through his head, and he dropped like a sack of potatoes.\
+
+`After a while, I got used to it. @
+br
+`It wasn't as though I liked it, or felt satisfied,@ but the notion of kill or be killed had become a part of me, and I accepted it.@
+br
+`There is nothing honorable about dying on the battlefield.@ You die pitifully and in that place no one mourns your death.@ They just keep on firing, and when it's finally over, if your side won... then they'd pick you up and carry you away.@
+br
+`What a joke.\
+
+`I wanted to forget those things, the things I'd seen and the things I'd done,@ so I could finally look at my hands without seeing those invisible stains.\
+
+bg cg_juliepondersa,10
+
+`"Mr. Mark?@ Something on your hands?"@
+br
+`"Huh? What?"@
+br
+`"You've been staring at your hands for a while.@ Is there something wrong with them?"@
+br
+`"Well..."\
+
+`"Could it be you thought of something that you'd want to change?"@
+br
+`"No, nothing. I was just spacing out."@
+br
+`"Hmph."@
+br
+`Even if it were possible, could I do it?@
+br
+`Everything has led me up until this moment, meeting this strange girl.\
+
+`Even if I believed in her game of imagination, I didn't want to think I'd take it back.@
+br
+`If I did, if I changed those things...@ I wouldn't have met Anne, who helped me to heal and push away those horrible thoughts, who loved me, and whom I'd married.@
+br
+`"Even if I did, does it matter?@ You can't change the past."@
+br
+`"Booo, I guess you're right."@
+br
+`"Hey now, weren't you the one who said so?"\
+
+`"Hehe."@
+br
+`"Well, if you can change the present, that's good enough for me."@
+br
+`"........."\
+wait 2000
+
+bgmstop bg inbetween_6,18,3000,"sys/m1.jpg"
+wait 2000
+bg inbetween_6b,10
+wait 3000
+bg black,10
+
+wait 3000
+
+bgm bgm_blue_feather
+
+`The next day I arrived at the dandelion field long before Julie Danvers. I sat down on a big stone, getting some sun and appreciating the nice weather,@ and waited for some time.@
+br
+`I didn't feel impatient, and there wasn't a need to rush anything.@ I simply waited for Julie Danvers, the dandelion girl, to make another appearance...\
+
+bg black,10
+
+wait 1000
+
+`But, I didn't see her.@
+br
+`I waited for a long time, glancing at my pocket watch from time to time as the sun gradually passed through the sky and sunk toward the horizon,@ but the girl with golden-colored hair, Julie Danvers, didn't show her face again.\
+
+bg bg_sky,10
+
+`I went back the next day and waited some more.@ Then, the day after that.@
+br
+wait 1000
+bg bg_sadsunset,10
+wait 1000
+
+`I kept on going to that dandelion field every day and waiting... but eventually my vacation finally ended,@ and I went back to my busy work life back home.@ Anne kept on apologizing for not being able to follow through and enjoy the vacation at the very end, but I told her it wasn't a big deal--it really wasn't--and things returned to normal, somewhat.\
+
+bgmstop bg black,18,3000,"sys/m1.jpg"
+
+wait 2000
+bg bg_office,10 bgm bgm_on_the_passing_of_time
+wait 1000
+
+`"Hmmm. You look really out of it lately, Mark."@
+br
+`"You think?"@
+br
+`"Yeah. So cut the crap, and get back to the grindstone."@
+br
+`"Heh."@
+br
+`"Hehe."\
+
+`Even Anne seemed to notice a small change in me, which had formed while I was away from the city, enjoying the company of Julie Danvers.@ Fortunately, or maybe not, she wasn't entirely sure what had caused it.@
+br
+`Maybe that was for the best.@ It does sound pretty suspicious.@
+br
+`There's no one out there, where we have our regular vacation,@ so I figured she wouldn't suspect anything like that had gone on.\
+
+`... Why did I feel so guilty?@
+br
+`I wasn't entirely sure.@
+br
+`But every now and then, as the seasons started shifting from one to another, I'd drive down to that place.@ Sometimes with Anne, usually not.@ ... And I'd look around, hoping I'd catch a glimpse of Julie. @
+br
+`But, like she'd been just an apparition or a pleasant daydream, she didn't reappear again.\
+
+bg black,10 bgmstop
+wait 1000
+
+
+`But then--@
+br
+`Eventually, one day, she did.@
+br
+`I met Julie Danvers again when I was strolling through the dandelion field where I'd met her months ago,@ which had been plucked free of dandelions and filled with real flowers that were surviving and thriving in the sunlight.@ At least for the time being, shortly before Winter arrived when it would kill most or all of them. @
+br
+`I saw her, wearing dark clothes that looked strange on her, standing in one spot, staring emptily into the distance.\
+
+bg bg_saddandelionfield,10
+
+
+`"Julie, is that you? Hey, Julie!"@
+br
+`I hurried over and called her name, but she didn't respond.@
+br
+`"........."@
+br
+`"Julie? That's you, right ...?@ Are you alright?@ Julie?"\
+
+
+bg cg_sadjuliestandinga,10
+
+`The air of the dandelion girl I'd come to know and appreciate had been wiped away,@ and there was nothing but a heaviness in the air that made me uneasy.@
+br
+`It wasn't the same girl who had felt so easy to talk to before standing in front of me, I was sure of it.\
+
+wait 2000
+
+`"... I'm sorry I lied.@ I thought I could make a couple more trips, and then everything would be fine.@ I could... fix it, you know?@ And then we could go on meeting until the day you left to go home, and then..."@
+br
+`"Did something bad happen?"@
+br
+`It was more of a rhetorical question, but Julie nodded her head just the same.@
+br
+`"What is it?"\
+
+bgm bgm_sad_slow_cut
+
+
+
+`"Papa... died."@
+br
+`"What?@ Your father passed away? When?@ I'm so sorry, Julie."@
+br
+
+wait 2000
+`"... *hic* ........./
+wait 800
+` I didn't understand.../
+wait 800
+` ... he was sick for a long time... but he always kept his spirits up, and then.../
+wait 800
+`one day he got really sick, and... by then they couldn't do anything to help him./
+wait 800
+` ... All I did was jump around through time... having fun, and waiting for him to fix the time machine when it wore down.../
+wait 800
+` I never thought........./
+wait 800
+` They just made him comfortable in the end, and.../
+wait 800
+` he smiled...@ at me... and... he......... he........."\
+
+
+
+`"I'm so sorry, Julie."@
+br
+`She wiped her eyes with her sleeve, then continued--@
+br
+`"I could've set the coordinates to the day right after the last we met, but with everything...@ well, I just couldn't remember them.@ So, sorry. I wasn't even sure if you'd come, so I've been waiting here for a while.@ Today was going to be the last day. ... Is that selfish?"\
+
+
+
+`"I don't think so."@
+br
+`"........."@
+br
+`"So Mark, I... ... /
+wait 600
+bg black,1
+` ah--"@
+br
+`Before Julie Danvers could turn around and push me away, I hugged her.@ And to my surprise, she didn't fight back.@ On the contrary, her body seemed to turn to jam, and she just slumped down, leaning against me.@
+br
+`I had many conflicting feelings.@ There was the image of my wife, deep in my heart, frowning.@ And then there was the dandelion girl, Julie, whose own heart was full of pain of a different type. \
+
+
+
+bg cg_juliesobsb,10
+
+
+
+`"You're strong, Julie.@ You're really strong.@ So if you want to cry, it's okay. I'm here, at least for now.@ So--"@
+br
+`"......... ku ...@ ...... nngh ...... uu ...@ uwaaaa... aaaaaahhhhhhhhhhhhhhh......... !"@
+br
+`She choked on them for just a moment, and then... @gently... @the dam creaked as it slowly broke open, and the suffering of Julie Danvers which she'd probably held back for a long time started to flow down her cheeks, unabated.\
+
+
+
+bg black,10
+wait 6000
+bgmstop
+wait 4000
+
+
+
+bgm bgm_blue_feather bg bg_saddandelionfield,10
+
+`After a while, she calmed down, and dried her eyes on her sleeve again.@ By then she would actually look at me, and she looked like a completely different person.@
+br
+`What kind of person had Julie become... ?\
+
+
+
+`"... Thanks, Mr. Mark."@
+br
+`"Like I said, just 'Mark' is fine."@
+br
+`"Hehe."@
+br
+`"That's better.@ I'm glad to see you're feeling better."\
+
+
+
+bg cg_sadjuliestandinga,10
+
+
+
+`"Yeah, I'm better.@ But, I still wonder what I'll do now."@
+br
+`"What do you mean?@ Won't you go back to your own time?"@
+br
+`"I don't think there's a place for me there, anymore.@ Or 'when.'@ And besides... it won't be much longer before my time machine falls apart.@ After all, I don't have anyone to fix it anymore.@ No matter how much I try to make it sound right, I just... don't want to be stuck in that time period, at all."@
+br
+`"Then where will you go?@ How many more times can you travel?"\
+
+cl a,10
+bg bg_saddandelionfield,10
+
+`"Maybe... one more.@ I should be able to do at least one more."@
+br
+`"Then, go to a time where it feels right."@
+br
+ld c,julf5,10
+`"How will I know what feels right?"\
+
+`"There's no explanation I can give you for that.@ Sometimes, it just... feels like something was meant to happen.@ You talked about the 'book of time theory,' right?@ What happened, happened.@ Probably, wherever you end up going is the place... no, the time where you were meant to be.@ So maybe there's no need to think about it too hard.@ Just close your eyes, and think. And just... go.@ Before it breaks down, and you're stranded here forever."@
+br
+cl a,10
+`"Hehe.@ It makes sense, when you say it like that.@ I can't stay here, can I?@ I don't want this world to become like the Ethan Frome story."@
+br
+`"The what?"\
+
+`Julie shook her head and told me not to worry about it.@
+br
+ld c,julf4,10
+`"I think... I know what you mean.@ There's something only I can do.@ That's what I've got to do."@
+br
+`"Something only you can do, is it?"@
+br
+`"That's right."\
+
+`"Well, whatever that is, I believe in you.@ So do it, and don't regret it.@ As long as you can do that, everything will be okay."@
+br
+cl a,10
+`Julie nodded her head in agreement.@ Then she slowly, very carefully, turned around.\
+
+wait 5000
+
+ld c,julf5,10
+wait 500
+ld c,julf6,10
+wait 500
+cl a,10
+
+wait 1000
+
+`Just once. @
+br
+`Julie glanced back at me just once, then turned back around right away like she was embarrassed.@
+br
+
+bg black,10
+
+`And then--@
+br
+`A moment or two later--@
+br
+`There was a crash like thunder, and a flicker of light, and then the image of Julie Danvers disappeared forever.\
+
+wait 1000
+
+bgmstop
+
+wait 4000
+
+bg bg_home,10 bgm bgm_moody_princess
+
+`"Mark? ... Mark?@ Are you listening to me?"@
+br
+`"Huh?@ Sorry, I was daydreaming."@
+br
+`"I hope it was about something more interesting than Bingo.@ Hmph."@
+br
+`It was.@
+br
+`"I'm listening, sorry."\
+
+`Anne sighed and slumped her shoulders.@
+br
+`"I was just letting you know I'm leaving for bingo.@ I'll be back later, alright?@ There's a couple little things in the refrigerator in case you get hungry before dinner."@
+br
+`"All right, got it."@
+br
+`"........."\
+
+`Anne opened her mouth and looked like she had something else to say, but a second or two later she closed it and simply shook her head.@
+br
+`Then, she turned around and picked up an umbrella from the stand by the door, and left for her weekly bingo game.\
+
+`"Mmmmm.@ I really haven't been the same, have I?"@
+br
+`When would I go back to normal?@ It felt like something about Julie Danvers had touched me, and then just as I was beginning to get used to it,@ she was snatched away before I could figure out just what it was. @
+br
+`My wife saw that, but I didn't think she knew exactly what it was.\
+
+`Still, I must be acting pretty suspicious.@
+br
+bg bg_rain,10
+`I looked out the window, which was streaked with rain drops, and sighed.@
+br
+`Eventually.@ Once enough days, weeks or months went by I'd forget all about Julie Danvers and her ridiculous story.@ Something I wouldn't be able to tell anyone about, solely because they wouldn't believe a word of it. @
+br
+`Now that's depressing.@ On many levels.\
+
+bg bg_home,10
+
+`After a little while I finished the jigsaw puzzle I'd been working on, on the kitchen table. It was a field of flowers, and I wanted to just scramble it up again and dump it back in the box.
+br
+`But Anne liked to frame these when I finished them, so I felt too guilty to do that.@
+br
+`Either way, I needed to find another puzzle.@ Or something else to keep my mind busy.\
+
+bg black,10
+wait 500
+bg bg_attic,10
+wait 3000
+
+`"I need to clean this place out.@ I don't even recognize half of these boxes."@
+br
+`The attic was filled with dozens of cardboard boxes, all coated in a thick layer of dust.@ I didn't remember most of them, even when they had words scribbled on them in marker.@ Those words didn't mean much of anything, and none of them were legible enough to suggest that they really meant something.@
+br
+`Had Anne put these up here?@ I wasn't entirely sure. I'm not much of a cleaner, myself.\
+
+`"Hmhmhm... @oh, there's one in here.@ I... a--ah!"@
+bg black,1 dwave 1,sfx_fall
+br
+`Suddenly, a few boxes stacked on top of each other were jerked loose, and fell on top of me. @
+br 
+`Like humpty dumpty, it had a great fall...@ and I was left coughing out the dust in my lungs.\
+
+bg bg_attic,10
+wait 500
+
+`"Kuh...!@ Gu... ugh... ugh... jesus...@ ... ... learn to stack... boxes the right way, Anne...@ ku! Guhhh!"@
+br
+`I spent a minute or two gagging and waving the dust away before I was able to get my head straight and stand up.@
+br
+`A spider skittered away somewhere. \
+
+`"... *cough* ...@ Well, I got the puzzle at least.@ Five-hundred pieces.@ That should keep me busy for a... while?"@
+br
+`I was looking just ahead of where the puzzle box had fallen when I noticed it.\
+
+`There was an ornate-looking suitcase with a rusted lock.@ It was big enough to hold a lot more than the usual luggage.@ It must've tumbled down from somewhere with the rest of the boxes.@ That lock, which must've been shut for decades now, had broken, and the case flipped open automatically. \
+
+`Inside, was a bundle of papers, a dress, and a dozen broken pieces of dark glass in a box.@
+br
+`"... ?"@
+br
+`The case belonged to Anne.@ Just after we'd gotten married she'd showed up with it, blushed and told me it was a bundle of embarrassing sentimental things from her father.@ It didn't seem like much of a big deal, but she'd made me promise not to open it.@
+br
+`She'd even gone as far as to lock it up tight, and as far as I knew she'd lost the key.@ She'd joked that she'd swallowed it.@ ... That was a joke, right?\
+
+`'Embarrassing sentimental things.' @
+br
+`I'd always wondered what she meant by that.@ So even though I was going against my word and looking through things I'd promised not to, I couldn't help but be curious and see what she was so ashamed of.@ It would probably be okay, as long as I did my best to shut the case again, tuck it away somewhere inconspicuous and not bring it up in front of her.@
+br
+`"........."\
+
+`But--@
+br
+`"What the hell is this stuff?@ ... Birth certificate, a bunch of... I can't even make sense of these papers. ......... ?"\
+
+wait 1000
+
+bg inbetween_5,18,3000,"sys/m1.jpg"
+wait 1000
+bg inbetween_5b,18,700,"sys/right.jpg"
+
+wait 4000
+bg black,10 bgmstop
+wait 2000
+
+bgmstop bg black,1
+wait 2000
+bgm bgm_credits_fast
+wait 500
+bg bg_churcha,10
+wait 1000
+
+`"Everything's all set, right?"@
+br
+`"That's right.@ ... Getting nervous, Mr. Randolph?@ The tuxedo looks fabulous.@ Oh, or is it the flower arrangement?"@
+br
+`"W-what makes you think I'm nervous?"@
+br
+`"I don't know.@ It could be your shaking hands?@ Ahahahaha."@
+br
+`"........."\
+
+`"Sorry, I'm just ribbing you.@ All in good fun."@
+br
+`"Right, right."
+br
+`I'd never been to a wedding before, so my own was pretty disorienting.@ I didn't have a damn clue where anything went or how to proceed.@ ... Thankfully we had someone to direct it and put everyone in the proper place.\
+
+`It was someone Anne had met on a business trip apparently, and she seemed to know what she was doing.@
+br
+`So, hypothetically, everything should work out in the end.@
+br
+`But still, I felt something uncomfortable settled in the bottom of my stomach.\
+
+`The bridesmaids.@ The best man.@ All the usual details of a wedding were sorted out, accounted for and we'd rehearsed everything without a hitch.@
+br
+`In that case, why was I so nervous?@
+br
+`It wasn't as though I was getting cold feet.@ ... Right?\
+
+`I guess anyone would be nervous.@
+br
+`I kept telling myself that, again and again, but it didn't seem to help much.@
+br
+`I just shook my head and struggled to swallow the lump in my throat.\
+
+`"Mark?@ Are you in here?"@
+br
+`"Yikes.@ There's the lady of the hour.@ I'll make myself scarce."@
+br
+`The woman giggled and made her way out, and I heard Anne's--Julianne's--voice fill the room.\
+
+bgmstop bg black,1
+
+br
+br
+br
+br
+br
+`"Ju.................. li................. Anne..........?"\
+
+bg bg_churcha,10
+wait 1000
+
+`"Oh, there you are.@ Not going to freak out about seeing me beforehand, are you?"@
+br
+`"I'm not a superstitious man.@ It takes away a bit of the surprise, but what does it matter?@ You're beautiful.@ Everything's going to go just fine."@
+br
+`Anne took a seat next to me on one of the pews where that woman had been a moment or two ago, and laughed.@ Unlike me, she was in pretty good spirits.\
+
+`"Superstitious, hmmm?@ You're not a religious man either, come to think of it.@ Whatever happened to that? We're getting married in a church after all."@
+br
+`"... I don't know.@ I think maybe I lost sight of the whole thing when I was deployed.@ Some of the other guys on the battlefield, they prayed when things got tough.@ Not me, though."@
+br
+`"So what, is the marriage thing a farce?@ Maybe we should just call it off."\
+
+`"Heh. You're joking about something pretty serious, aren't you?"@
+br
+`"Come now, you know I don't mean it."@
+br
+`"Right, right."\
+
+`"Hmmmmmmm.@ I wonder what Papa would think of the whole thing, himself?"@
+br
+`"What do you mean?"@
+br
+`"Mmmmm.@ The two of you would've gotten along pretty well, you know?@ He has a man of science.@ He'd say all of this was a load of nonsense.@ Not the marriage, just the church.@ The priest. All of that."\
+
+`"Kind of sounds like he was a bit of an insensitive guy."@
+br
+`"You think?"@
+br
+`"Maybe."@
+br
+`The two of us laughed together, in the empty church where we would get married tomorrow.\
+
+`"Well, I think everything will go well.@ Just don't get cold feet now, okay?@ You'll embarrass me wearing this beautiful dress."@
+br
+`"I get it, I get it.@ Why are you wearing the dress now, anyway?@ Don't you have something more breathable to move around in?"@
+br
+`"I do.@ But hey, I wanted to take it for a spin, hehehehe."@
+br
+`"Goofball."\
+
+`Tomorrow, this place would be full of familiar and strange people, and the two of us would be married.@ ... Even though everything had been said and done, I still felt extremely anxious.@
+br
+`Everything would definitely be fine, so why did I feel so uneasy?@
+br
+`Maybe it was the feeling of... finality.\
+
+bg bg_churchb,10
+
+`Once you're married, there's no going back.@
+br
+`'Till death do us part' and all of that.\
+
+`"Still.@ I'm glad I met you, and I'm glad we've arrived at this point.@ ... I love you, Mark.@ It really was fate that I met you."@
+br
+`"C-come on, you're embarrassing me."@
+br
+`"Ehehehe."\
+
+wait 2000
+
+`"......... The day before yesterday I saw a rabbit..... and then yesterday a deer... and today, you..."@
+br
+`"Hmmm?"@
+br
+`"Since that time, wonderful things have happened one after another.@ At first all I could see was that cute little rabbit, and then I found the deer.@ And now, at the end, I've found you."\
+
+`"........."@
+br
+`"At a loss for words?"@
+br
+`"Yeah, it's just..."@
+br
+`"Just what?"\
+
+`"I don't know. I'm... having this really bad case of deja vu."@
+br
+`"Hmhmhm.@ Is that soooo?"@
+br
+`"........."\
+
+`"Well, what happened, happened.@ That's what Papa would say, now."@
+br
+`"You think so, eh?"@
+br
+`"Yes... I'm pretty sure."@
+br
+`Anne smiled sadly, and swung her feet back and forth underneath the pew.@ For a moment she looked like a restless child sitting through mass.\
+
+`"It's... a shame he couldn't make it to see this."@
+br
+`"Right."@
+br
+`"I wonder... if he'd think I look beautiful, too."@
+br
+`"Good question."\
+
+wait 2000
+
+`"Anne, I've been meaning to ask you something."@
+br
+`"Oh?"@
+br
+`"Yeah.@ ... Why are you so hesitant to get your picture taken?@ It's our wedding, after all.@ We'll remember it for the rest of our lives, and it only happens once.@ Don't you want some sort of memento?"@
+br
+`"........."\
+
+`"It's not that I don't want to remember this wonderful day.@ It's just that, well...@... it's impossible for me.@ I can't really say why, but, umm..."@
+br
+`"It's okay.@ We're getting our portrait done, so it's not a total loss."@
+br
+`"Hehe. Thanks for understanding my feelings."@
+br
+`"Never said I understand those."@
+br
+`Anne giggled.\
+
+br
+br
+br
+br
+br
+`What happened, happened.\
+
+br
+br
+br
+br
+br
+"......... The day before yesterday I saw a rabbit..... and then yesterday a deer... and today, you..."\
+
+wait 1000
+
+bg cg_wedding,10
+
+`At last, I understood.@ The feeling of deja vu and familiarity that I couldn't wipe away, which had been plaguing me ever since I first met the dandelion girl Julie Danvers.@
+br
+`That night, the evening before we were married, I fell asleep with a slightly puzzled feeling, like something still wasn't quite right.@
+br
+`Decades later, I finally understood.\
+
+wait 1000
+
+bg black,1
+
+wait 2000
+
+bg bg_busstopa,10 bgm bgm_sad_slow_cut
+
+`It was so stupid, and so petty.@
+br
+`But still, I understood.@
+br
+`At the very end, I was able to understand "Anne."\
+
+bg bg_busstopb,10
+wait 1000
+bg bg_busstopc,10
+wait 1000
+bg bg_busstopd,10
+
+`I walked to the bus stop, where I knew it would drop Anne off after her bingo game.@
+br
+`I waited.@ Not for just a single hour, or even two or three.@ I sat on that bench, underneath the feeble-looking bus shelter, and waited for a long time, until Anne came to return from her Bingo game.\
+
+`Eventually, that bus rolled up and several people got off.@ After a little shuffling, Anne stepped out too, and I gave her a start.@
+br
+`Unsure of what I was doing here, she just... stared...@
+br
+`She looked into my eyes, and after seeing some understanding at last, she looked weak in the knees.\
+
+bg bg_busstopc,10
+
+`"I get it, now.@ I understand everything.@ ... Not wanting to have your picture taken, the uneasy feeling I had the night before our wedding, the sensation of deja vu...@ The reason I felt so... lovestricken.@ All along, it was you."@
+br
+`"........."@
+br
+`"You were scared.@ So many years have passed since I met you at my practice, and we've grown old.@ I fell in love with you this year, and you returned to the past.@ Then I fell in love with you again."\
+
+`"........."@
+br
+`"I don't care how old you've gotten.@ I don't care about any of that.@ Just knowing that you and Julie are one and the same... makes my heart so happy."@
+br
+`"Mark......... Mr. Mark."\
+
+`"I fell in love with the young you.@ I guess I fell in love with you twice, in that case.@ But seeing the young you doesn't change anything.@ ... I... love you, Anne."@
+br
+`"Mark...!"@
+
+bg black,1
+wait 500
+bg cg_annerunsintheraina,10
+
+br
+`She ran.@ Anne ran and hugged me, and buried her face in my chest.@ And she cried, and cried, and I felt yet another sting of deja vu.@ Months ago, Julie Danvers had done this too.\
+
+wait 2000
+
+bg cg_juliesobsb,10
+wait 3000
+bg cg_hugsforanne,10
+
+`It was a warm, reassuring deja vu.@
+br
+`I had never lost Julie Danvers.@ At the same time, I had never stopped loving my wife or fallen for someone else.@
+br
+`In an imperfect world where nothing seems to ever line up neatly, things had fallen into place.\
+
+bg black,10
+
+`That ended the chapter in my life about Julie Danvers.@ Or, in a way maybe it had it just begun.@
+br
+`Whatever the case may be, Anne and I walked hand in hand in the rain, clinging to one another.@ Anne joked that I might have caught a cold.@
+br
+`But she said that would be okay, since she could nurse me back to health.@ And I knew she would.\
+
+
+
+`After a while the rain finally stopped, and we looked up at the sky.@
+br
+`The bright, beautiful sky began to peek through the clouds, and I thought it looked like the sky I'd seen when I first met the dandelion girl.........\
