@@ -37,13 +37,13 @@ bg cg_julieinthefield,10
 wait 2200
 bg cg_julieinthefieldb,10
 br
-`It was some time before Mark realized.@
+`过了一段时间，马克才意识到。@
 br
-`The dandelion girl with the straw hat had stopped dancing, and now she was just standing there, staring at Mark with a face like a curious animal.@
+`戴草帽的蒲公英女孩已经停止跳舞，现在她只是站在那里，用一张像好奇的动物一样的脸盯着马克。@
 br
-`Mark thought:@
+`马克想：@
 br
-`One time, at a place called Saint Vincent Malleys, he'd seen something like this.\
+`有一次，在一个叫圣文森特-马莱的地方，他看过类似的东西。\
 
 
 `It felt like she'd stepped out of the past and stood before him, but... that was wrong.@
@@ -66,53 +66,53 @@ wait 1000
 
 `I'd been planning out my vacation for months.@
 br
-`God knows I spend too much time in my office shuffling through papers and handling cases, so I deserve to have some time for just myself and my wife now and then.@ Every year I schedule four weeks of time away from my desk--two with Anne and our friend Jeff--and two with just Anne and me.@
+`上天知道我花了多少时间在办公室里处理文件和案件，所以我应该偶尔有一些时间留给自己和妻子@ Every year I schedule four weeks of time away from my desk--two with Anne and our friend Jeff--and two with just Anne and me.@
 br
-`I always schedule them so that they'll arrive before I can burn myself out.@ They're nothing expensive or elaborate, just a comfortable get-away.@
+`我总是安排好时间，好让我们在筋疲力尽之前到达。@ 不昂贵也没有精心设计，只是一次舒适的度假。@
 br
-`I'd planned out a schedule for Anne and I, what we planned to do, how, and when.@
+`我为我和安娜规划了一个时间表，规划了事项、方式和时间。@
 br
-`My time off was set, as was Anne's.@ Oh, And Jeff's.\
+`我的度假时间已经确定好了，安娜的也是。@ 嗯，还有杰夫的。\
 
-`Then it was only a matter of time until the day crept up on us, and we'd pack up the car and set off.@
+`然后，就只是一个时间问题，直到这一天悄悄来临，我们收拾好车，出发。@
 br
-`I really looked forward to it, and I'd arranged a lot of small details ahead of time.@
+`我真的很期待，而且我提前安排了很多小细节。@
 br
-`"You put way too much thought into this kind of thing, you know that?"@
+`“你在这种事情上花太多心思了，你知道吗？”@
 br
-`"Never hurts to be prepared and have a plan, right?@ My captain always said so, anyway."@
+`“有备无患，对吗？@ My captain always said so, anyway."@
 br
-`My wife had giggled and went along with it, and we'd come to a mutual understanding.\
+`我的妻子咯咯地笑着，我们顺其自然达成了相互理解。\
 
-`We had a lot of things we wanted to do.@ Simple things. Fishing and roasting marshmallows, just enjoying our time with one another.@ ... Some things we'd have to wait until Jeff went back to college to do.@
+`我们有很多事情想做。@ 简单的事情而已。钓鱼和烤棉花糖，只是享受我们彼此之间的时光@ …… 有些事情我们还得等到杰夫回大学后才能做。@
 br
-`Anne and I were busy, hard-working people.@ Some would probably say we were addicted to our work.@
+`我和安娜都是勤奋忙碌的人。@ 有人说我们工作成瘾。@
 br
-`It wasn't that we needed the money per se, we just both had a drive to stay busy.@
+`这并不是说我们需要钱本身，我们只是需要一种保持忙碌的动力。@
 br
-`But you know, eventually the stress can add up, so things like this are nice.\
+`但你知道，最终压力还是会积累，所以像这样度个假真不错。\
 
-`When was the last time Anne and I went somewhere on vacation?@
+`我和安娜最后一次去哪里度假是什么时候？@
 br
-`I can't seem to remember.@ Didn't we drive to Florida last February and just lay out on the beach, watching the dolphins swimming around in the ocean?@
+`我似乎记不起来了。@ 好像去年二月我们不是开车去了佛罗里达，躺在沙滩上看着海豚在海里游来游去吗？@
 br
-`Or maybe that was the year before...\
+`也许那是前年的事......\
 
-`Well, anyway.@
+`好吧，无论如何。@
 br
-`It would be nice to have some time to just huddle close to one another in front of the fireplace, just enjoying each other's company.@
+`如果能有一些时间在壁炉前紧紧地拥抱在一起，只是享受彼此的陪伴，那就太好了。@
 br
-`Jeez, the idea of that's kind of cheesy and embarrassing.@
+`啊，这种想法有点俗气和尴尬。@
 br
-`But either way, I was looking forward to it.\
+`但不管怎样，我都期待着。\
 
 bg black,10
 
-`... But.@
+`…… 但是@
 br
-`Fate intervened, and Anne was called away for Jury duty.@
+`命运介入了，安妮被叫去当陪审员。@
 br
-`No matter how hard she tried to wriggle her way out of it, she was stuck.@ And so our plans for a peaceful, relaxing vacation were derailed.\
+`无论她如何努力挣扎，她都无法脱身。@ 于是，我们宁静祥和的度假计划被破坏了。\
 
 bg "bg/bg04.jpg",10
 
