@@ -214,10 +214,10 @@ wait 1000
 ld c,julb4,10
 `"打扰... ?"@
 br
-`"Getting in the way. Of your dancing I mean.@ ... Whew, it's a big field, though.@ We can share it, don't you think?"@
+`"打扰了你跳舞。@ ... 不过，这块地很大。@ 我们可以分享它，你不觉得吗？"@
 br
 ld c,jula2,10
-`"Oh... Sure, sure."@
+`"哦......当然，当然。"@
 br
 `She grinned and nodded her head without an argument of her own.\
 
