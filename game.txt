@@ -174,45 +174,45 @@ bgm bgm_credits_fast
 bg bg_sky,18,3000,"sys/m1.jpg"
 wait 2000
 
-`"Nnn.../
+`"嗯.../
 wait 200
 ` ku.../
-` ... ... this is...@...@ higher than I remembered..."@
+` ... ... 这...@...@ 比我记得的要高......"@
 br
-`The climb to the top was... further than I remembered.@ I couldn't tell if I'd taken a different path, or whether I was just getting old.@
+`爬到山顶的过程......比我记忆中的还要远。@ 我无法判断是走了一条不同的路，还是自己衰老了。@
 br
-`I hoped it was the former.\
+`希望是前者。\
 
 `"Nnnngh...@ uu... ...  a-ah... !"@
 dwave 1, sfx_fall quakey 6, 800 
 wait 600
 br
-`After a few more shaky steps I managed to reach the edge, and finally climbed up onto solid ground.@
+`又走了几步后，我设法到达边缘，终于爬上了坚实的地面。@
 br
-`It was a field of dandelions stretching from here to the horizon, rippling in the Summer wind.@
+`那是一片蒲公英，从这里一直延伸到地平线，在夏日的风中荡漾着。@
 br
-`I looked it up and down, from near to far, and after a moment or two I realized I wasn't alone.\
+`我从近到远、上下打量着它，一两分钟后我才意识到自己并不孤单。\
 
 bg bg_dandelionfield,10
 
 `There was a blonde girl in a straw hat doing some sort of silly dance, simply enjoying the warmth of the sun.@
 br
-`Eventually she stumbled, and her hat fell off.@
+`最终，她踉跄了一下，帽子掉了下来。@
 br
-`She picked it up, then looked at the sky... and then, pausing first, she looked at me and let it fall again.@
+`她把它捡起来，然后看着天空......然后，先是停顿了一下，她看着我，又让它掉下来。@
 br
-`After a time, the dandelion girl waded over to me in the grass and stopped several yards away.\
+`一会儿，蒲公英女孩蹚过花草向我而来，在几码远的地方停了下来。\
 
-`Was she at a loss for words?@
+`她有点不知所措？@
 br
-`I sure as hell was.\
+`我觉得是。\
 
 
-`"Hello, Miss.@ Hope I'm not intruding."@
+`"你好，小姐。@ 希望我没有打扰到你。"@
 br
 wait 1000
 ld c,julb4,10
-`"Intruding... ?"@
+`"打扰... ?"@
 br
 `"Getting in the way. Of your dancing I mean.@ ... Whew, it's a big field, though.@ We can share it, don't you think?"@
 br
