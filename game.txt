@@ -128,44 +128,44 @@ br
 br
 `"但是——"@
 br
-`"You deserve it, Mark.@ You work so hard and never complain, so just this once, shut up and enjoy yourself."@
+`"You deserve it, Mark.@ 你如此努力工作，从不抱怨，所以就这一次，别争嘴，好好享受。"@
 br
 `"........."\
 
 bg black,18,2000,"sys/right.jpg"
 wait 500
-`Since the beginning, I've had a hard time arguing with my wife.@
+`从一开始，我就很难和我的妻子争论。@
 br
-`Is it because she's so persuasive, or am I just a softy?@ Whatever the case may be, she ends up winning most of the arguments, or at best, we reach a stalemate.@ A compromise is a nicer way of putting it.@
+`是因为她很有说服力，还是因为我只是个软蛋？@ 不管是什么情况，她最终赢得了大部分的争论，顶多我们达成了僵局。@ 迁就或许是一种更好的表达方式。@
 br
-`So in the end I folded, packed up my things and went off on vacation without my wife.@
+`所以最后我妥协了，收拾好自己的东西，不带着她去度假了。@
 br
-`She said that she'd catch a ride to our camp site as soon as it was done.@
+`她说一办完事她就会搭车到我们的营地。@
 br
-`After all that, I finally arrived at our cabin in the woods and settled in.\
+`经过这么多，我终于到达了我们在森林中的小屋，并安顿下来。\
 
 bg "bg/bg04_05_new.png",10
 
-`Jeff and I had a good enough time by ourselves, but time continued to slip by, and before I knew it he'd left for college and the trial back home was still going on.@
+`我和杰夫过得也挺好，但时间继续溜走，在我发掘之前，他已经去上大学了，家那边的陪审还在进行。@
 br
-`Anne apologized, and I knew it was heartfelt, but even so, it bothered me a little.@
+`安妮道歉了，我知道那是发自内心的，即便如此，还是让我有点困扰。@
 br
-`Time passed at the camp site, where I'd had a good time with Jeff days ago, very slowly after that...\
+`在营地的时光流逝着，几天前我和杰夫在那里度过了一段美好的时光，之后的时间非常缓慢...\
 
 wait 2000
 
-`Jeff left a bottle of champagne on the coffee table before he left, too,@ which just reminded me someone was missing from all this.@
+`杰夫离开前在茶几上留下了一瓶香槟，@ 这只是提醒我在这的一切中缺少一个人。@
 br
 `"........."@
 br
-`What to do, now?@
+`现在该干什么？@
 br
-`I couldn't play cards with Anne and I felt like going fishing with just myself and my rod would be too depressing.\
+`我不能和安妮打牌，我觉得自己一个人带着鱼竿去钓鱼太压抑了。\
 
 bg black,10 bgmstop
-`I tried laying down and just taking a nap, but even that didn't feel right.@
+`我试着躺下，只是打个盹，但即使这样也感觉不对。@
 br
-`After a while I finally decided--I'd take a hike.@ Maybe trudging around in the middle of good old mother nature would distract me from the loneliness I felt, then.\
+`过了一会儿，我终于决定--我去爬山。@ 也许在大自然中跋涉会让我从孤独中解脱出来。\
 
 
 wait 4000
