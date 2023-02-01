@@ -116,17 +116,17 @@ br
 
 bg "bg/bg04.jpg",10
 
-`"Well, we can always go on vacation another time."@
+`"好吧，我们还可以在其他时间去度假。"@
 br
-`"What are you talking about?@ Aren't the preparations already made?@ Didn't you already schedule the time off?@ Call Jeff at the cabin?@ You can't just call it off."@
+`"你在说什么？@ 不是已经准备好了吗？@ 你不是已经安排好了休息时间吗？@ 打电话给小屋里的杰夫？@ 你不能就这样取消。"@
 br
-`"Well, yeah, but..."@
+`"嗯，是的，但是..."@
 br
-`But I obviously couldn't go without her.@ It just wouldn't feel right.\
+`但我显然不能没有她。@ 这让我感觉不自在。\
 
-`"It's not that far away, and the case seems pretty open-and-shut.@ ... Go on, head up there and keep Jeff company and I'll hurry after you as soon as the case is done with."@
+`"并不遥远，而且这个案子似乎不复杂。@ ......。去吧，去那里陪陪杰夫，案件一结束，我就赶紧去找你。"@
 br
-`"But--"@
+`"但是——"@
 br
 `"You deserve it, Mark.@ You work so hard and never complain, so just this once, shut up and enjoy yourself."@
 br
