@@ -219,84 +219,84 @@ br
 ld c,jula2,10
 `"哦......当然，当然。"@
 br
-`She grinned and nodded her head without an argument of her own.\
+`她咧嘴一笑，点了点头，没有反驳。\
 
 cl a,10
-`"Mmmm.@ My wife and I come up here from time to time when we go camping in the area.@ She really likes the view."@
+`"嗯。@ 我和妻子在该地区露营时，时常来这里。@ 她非常喜欢这里的风景。"@
 br
-`Without meaning to, I thought my voice had tapered off at the end of my sentence and made me sound melancholy.@
+`无意中，我觉得我的声音在句子的末尾变小了，使我听起来很忧郁。@
 br
-`If it had, the dandelion girl hadn't noticed it.\
+`如果有的话，蒲公英女孩也没有注意到它。\
 
 ld c,julb4,10
 
-`"Mmmhmm, mhmhmm.@ Isn't it a nice view?@ I come here sometimes and I can watch for hours, and hours, and hours."@
+`"Mmmhmm, mhmhmm.@ 是不是很好看？@ 我有时候来这里，我可以看不知道几个小时。"@
 br
-`"I guess, but I'm not sure I could keep at it for hours on end.@ Don't know where anything is down there.@ Maybe my eyes aren't so great, these days."@
+`"我想是的，但我不确定我是否能连续坚持几个小时。@ Don't know where anything is down there.@ 也许这些天我的眼睛不怎么好。"@
 br
-`I thought maybe she was exaggerating, but I wasn't kidding about my eyesight.@
+`也许她是在夸大其词，但我对自己的视力并没有开玩笑。@
 br
-`Anne had eyes like a hawk, and if we were together she'd be giggling and pointing down at Cove City,@ which this view loomed over in the distance, talking about something that was going on down there.\
+`安妮的眼睛像鹰一样，如果我们在一起，她会傻笑着指着远处隐约可见的科夫城，@ 谈论着下面发生的一些事情。\
 
-`But everyone looked like ants from where I was sitting, so a part of me thought she was just fooling around.\
+`但从我坐的地方看，每个人都像蚂蚁，所以我的一部分认为她只是在胡闹。\
 br
-`"Have you ever been down to Cove City?@ I've only been down there once or twice, myself."@
+`"你去过科夫城吗？@ 我自己只去过一两次。"@
 
 ld cl,julb3,10
 br
-`"Oh, of course~!"@
+`"哦~当然了！"@
 br
-`All at once, the dandelion girl sprung up, suddenly looking really excited.\
+`蒲公英女孩一下子站了起来，突然显得非常兴奋。\
 cl a,1
 stop
 bgm bgm_cold_funk
 bg cg_juliepointing,1 dwave 1,sfx_sproing quakex 5,1000
 
-`"Down there, you see that?@ It's a shop where you can get all the latest dresses.@ They sell jackets and some things for men, too, but most of their stuff is for young ladies, like me.@/
+`"在那里，你看到了吗？@ 那是一家商店，可以买到所有最新的衣服。@ 也卖夹克和一些男人的东西，但大部分东西是为像我一样的年轻女士准备的。@/
 dwave 1,"sfx/sproing.wav" quakex 5,1000
-` Oh, oh, and you see that?@ That's a general store, where you can get anything from aspirin to aerocars.@ The owner's a really nice man who gives me cookies sometimes."@
+` 哦，哦，你看到了吗？@ 那是一家杂货店，在那里你可以买到从阿司匹林到航空汽车的任何东西。@ 老板是一个非常好的人，他有时会给我饼干。"@
 br
-`"Hmmm.@ It all sounds nice, I suppose.@ ... But wait, 'aerocars'? What are those?"@
+`"嗯。@ 听起来不错。@ ......但是，等等，'航空汽车'？那是什么？"@
 br
-`"A-ah, whoops. I guess they don't have those in this time period, huh?"@
+`"啊，哎呀。好像这个时期没有这些东西，嗯？"@
 br
 `"........."\
 
-`"I'll tell you a secret, okay?@ Just promise to keep it to yourself."@
+`"我告诉你一个秘密，可以吗？@ 只要你保证不说出去。"@
 br
-`"I've got no one else to tell.@ Shoot."@
+`"我没有人可以告密。@ 说吧。"@
 bg black,10
 wait 1000
 br
-`The dandelion girl lowered her voice and put her face closer to mine.@
+`蒲公英女孩压低了声音，把脸靠近我。@
 br
-`"... I'm from 240 years from now, in the future, you know?"@
+`"......我是来自240年后的未来，你知道吗？"@
 br
-`With an entirely serious face... she said that.\
+`她面孔严肃地说。\
 
 bg bg_dandelionfield,10
-`"Huh. Neat."@
+`"嗯，好的。"@
 br
 ld c,jula8,10
-`"Th-that's all you've got to say!?@/
+`"这——这就是你要说的！？@/
 ld c,julb3,10
-` Really?"@
+` 真的假的？"@
 br
-`"Sure.@ Were you expecting something else?"@
+`"当然。@ 你在期待别的什么东西吗？"@
 br
 ld c julb4,10
 wait 300
 cl a,10
-`The dandelion girl clasped her hands together and looked like she was at a loss for words again, ecstatic.\
+`蒲公英女孩双手合十，喜悦又不知所措。\
 
 ld c,julb9,10
-`"S-so you believe me?"@
+`"所以，你相信我？"@
 br
-`"Of course."@
+`"当然……"@
 br
-`... No chance.\
+`不可能。\
 
-`When I was a kid my brother and I liked to play pretend,@ acting like we were from space, or pirates, or even from the future or the past, trying to muck up the present.@
+`我还小的时候喜欢和兄弟玩扮演游戏，@ 假装我们来自太空，或是海盗，或者从过去或未来穿越而来试图打乱当前。@
 br
 `Even though some of those make-believe sessions ended in scuffs or bruises, I remembered how much fun they'd been.@
 br
