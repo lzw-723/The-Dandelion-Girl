@@ -298,25 +298,25 @@ br
 
 `我还小的时候喜欢和兄弟玩扮演游戏，@ 假装我们来自太空，或是海盗，或者从过去或未来穿越而来试图打乱当前。@
 br
-`Even though some of those make-believe sessions ended in scuffs or bruises, I remembered how much fun they'd been.@
+`虽然有几次扮演以瘀伤和擦痕告终，但我还是觉得十分有意思。@
 br
-`Even though she seemed a little old for make-believe, the dandelion girl seemed wrapped up in her small imaginary world, and it was kind of... endearing.@
+`尽管她看起来与这些虚构的东西相比过于成熟，但蒲公英女孩似乎沉浸在她小小的想象世界中，有点儿......令人喜爱。.@
 br
-`So I played along, for one reason or another.\
+`所有因为这样那样的原因我也跟着一起玩。\
 
-`"Hmmm.@ Mind if I ask you a question?"@
+`"嗯，@ 介意我问你一个问题吗？"@
 ld c,jula2,10
 br
-`"Of course.@/
+`"随便问。@/
 ld c,jula8,10
-` What is it, Mr...?"@
+`先生……你叫什么名字？"@
 br
-`"Yes, that's the thing.@ What's your name?@ You can call me Mark if you want."@
+`"啊，问这个啊。@ 你愿意的话可以叫我马克。@ 你的名字是什么？"@
 br
 ld c,jula2,10
-`"Mark, hmmm?@ I'm Julie Danvers.@ You can call me Julie.@/
+`"马克，嗯。@ 我名字是朱莉·丹弗斯。@ 叫我朱莉就好了。@/
 ld c,julb4,10
-` It's a pretty name, just like the dandelions here, don't you think?"@
+` 真是一个漂亮的名字，就像这里的蒲公英，你不觉得吗？"@
 br
 `"My wife would say someone needs to pluck them all and throw them in the trash, but sure.@ I suppose so."\
 cl a,10
