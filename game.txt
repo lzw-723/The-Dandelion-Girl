@@ -324,22 +324,22 @@ cl a,10
 ld r,jula10,10
 wait 300
 ld r,jula6,10
-`Julie shuddered, as though the thought of it horrified her.@
+`朱莉打了个寒颤，似乎一想到这个就会让她感到恐惧。@
 br
-`Maybe it did.@
+`许是这样。@
 br
-`"So, you're from 240 years in the future, right?@ Why did you come back to the sixties?@ Why not go further ahead in time, maybe to 500 years from now?"@
+`"那么，你是来自240年后，对吗？@ 为什么你要回到60年代？@ 为什么不把时间再往前推，例如到500年前？"@
 br
 ld r,jula7,10
-`"Why?@/
+`"为什么？@/
 ld r,jula8,10
-` Why wouldn't I?@ Everything's pretty dingy and industrialized 240 years from now, you know."@
+` 为什么不呢？@ 从现在起的240年里，一切都开始喧嚣和工业化，你知道的。"@
 br
-`"I suppose that makes sense."\
+`"有道理。"\
 
-`"I come here all the time, like I said!@/
+`"我经常来这里，就像我说的那样！@/
 ld r,julb2,10
-` Sometimes I'll just roll around in the grass, or watch the clouds go by, or just lay around and try to get a bit of a tan.@ Although, I usually burn.@/
+` 有时，我就在草地上打滚，或看着云彩飘过，或只是躺着，试图晒黑一点。@ 虽然我通常会被晒伤。@/
 ld r,julb4,10
 ` Oh, oh! You know, the day before yesterday I saw a rabbit, and yesterday a deer, and today, you."@
 br
