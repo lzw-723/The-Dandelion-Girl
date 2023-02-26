@@ -345,14 +345,14 @@ ld r,julb4,10
 br
 `"And here I was taking it all for granted.@ I'll have to stop by more often."@
 br
-`"Don't you live around here or something, Mister?"@
+`"你不是住在这附近吗，先生？"@
 br
-`"Sort of.@ I go on vacation here from time to time.@ I've got a cabin a ways back.@ Normally my wife comes along with me, but... well..."\
+`"算是吧。@ 我时不时地在这里度假。@ 我在后面的地方有一个小木屋。@ 我通常和妻子一起去，但是……哎。"\
 
 ld r,julb3,10
-`"She left you behind all to yourself?@/
+`"她把你一个人留在这里？@/
 ld r,julb1,10
-` That sounds pretty mean."@
+` 听起来挺刻薄的。"@
 br
 `"No, no, she had jury duty all of a sudden, that's all.@ She said it was an open-and-shut case, though, so she'd hurry after me."@
 br
