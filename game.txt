@@ -354,7 +354,7 @@ ld r,julb3,10
 ld r,julb1,10
 ` 听起来挺刻薄的。"@
 br
-`"No, no, she had jury duty all of a sudden, that's all.@ She said it was an open-and-shut case, though, so she'd hurry after me."@
+`"“不，不是，她突然有了陪审团的职责，仅此而已。”她说这是个一目了然的案子，所以她会赶紧回来来找我。"@
 br
 ld r,julb8,10
 `"Muu, sounds suspicious if you ask me."@
